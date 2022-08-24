@@ -1,19 +1,19 @@
 KF-channel_0529,#genre#
-极限电影,mitv://ns2.hellotvvod.com:9906/135e4ed0aa5c41799ef557438ea2fd3c.ts
-松视1台,mitv://ns2.hellotvvod.com:9906/44e7815fb50e480396e50ac764e11539.ts
-松视2台,mitv://ns2.hellotvvod.com:9906/9ac66665e92c4cb48371dc3090495ac4.ts
-松视3台,mitv://ns2.hellotvvod.com:9906/8c4503b885bc48b2be2ec89492fb8a78.ts
-彩虹E,mitv://ns2.hellotvvod.com:9906/9130343429c141a3b9707c64efbcb0ef.ts
-香蕉台,mitv://ns2.hellotvvod.com:9906/d16ff7b5339947a0896e94a2172dfbc3.ts
-彩虹电影,mitv://ns2.hellotvvod.com:9906/d9311c6eb42f4562ad553defdd005a88.ts
-惊艳电影,mitv://ns2.hellotvvod.com:9906/7ca9ca30ce0541ceaf939915ac86cef2.ts
-潘朵啦玩美,mitv://ns2.hellotvvod.com:9906/e9ef79f6a3f24e74b6e8e7d7d894fee0.ts
+极限电影,mitv://ns2.hellotvvod.com:9906/fb9ba07eefeb4914baced5605963b896.ts
+松视1台,mitv://ns2.hellotvvod.com:9906/e35f1130df9b47f386c3c56f3dbfcd03.ts
+松视2台,mitv://ns2.hellotvvod.com:9906/6b6784c3820e421cba1e3c48e99960b5.ts
+松视3台,mitv://ns2.hellotvvod.com:9906/bd093ee0f64f4857b8811bc60e10be0e.ts
+彩虹E,mitv://ns2.hellotvvod.com:9906/27fee1f489c64dfb8a387d2b40163340.ts
+香蕉台,mitv://ns2.hellotvvod.com:9906/d42872d9b6864cab887a99d0aa46073b.ts
+彩虹电影,mitv://ns2.hellotvvod.com:9906/44584f27dd034bc4bd3cb79a81ac16c7.ts
+惊艳电影,mitv://ns2.hellotvvod.com:9906/eb9593f2dcc049d9b5e2a41b6388bb25.ts
+潘朵啦玩美,mitv://ns2.hellotvvod.com:9906/011e34da1ad148338c2fe0b80afcb50a.ts
 潘朵啦粉红,mitv://ns2.hellotvvod.com:9906/88b34261274b455a9fb8bbd9d1f1bdcb.ts
-K频道,mitv://ns2.hellotvvod.com:9906/e7239901b95644599fe808c4fc9695f9.ts
+K频道,mitv://ns2.hellotvvod.com:9906/c340e017daff4b4eb187110f186216b1.ts
 HOT,mitv://ns2.hellotvvod.com:9906/cd173b013ed340daa83e4e459edbabcd.ts
-HAPPY,mitv://ns2.hellotvvod.com:9906/d95b66b5985f46249c07285ebbf7cf1f.ts
-LOOKTV,mitv://ns2.hellotvvod.com:9906/bc4841573eb54e5fbd94244ebe07b39b.ts
-PLAYBOY,mitv://ns2.hellotvvod.com:9906/3d0473707f9148358731ba1ffd9709bb.ts
+HAPPY,mitv://ns2.hellotvvod.com:9906/194f0acc881446e5832815b8ecc4d267.ts
+LOOKTV,mitv://ns2.hellotvvod.com:9906/220b79ae6fb7445880c32d5c7aeecaf3.ts
+PLAYBOY,mitv://ns2.hellotvvod.com:9906/65ba286aeb7f41b6b39a5c73bdf3eef1.ts
 
 极限电影,mitv://54.39.16.152:9906/6260e061000b04ae172397987c1e3b34.ts
 松视1台,mitv://54.39.16.152:9906/6260dfaa0008dccc1720cc33ffe57894.ts
@@ -22,12 +22,12 @@ PLAYBOY,mitv://ns2.hellotvvod.com:9906/3d0473707f9148358731ba1ffd9709bb.ts
 彩虹E,mitv://54.39.16.152:9906/62668da3000bd6cc134cc0d079365057.ts
 香蕉台,mitv://54.39.16.152:9906/6260e29a0009b4f9172c45ea502a9f98.ts
 彩虹电影,mitv://54.39.16.152:9906/6260e2d0000cf56c172d19afe4aa1d66.ts
-惊艳电影,mitv://54.39.16.152:9906/6260e2b000004933172c99712568d815.ts
+惊艳电影,mitv://54.39.16.152:9906/6260e2420001e45e172aec2a005c42e7.ts
 潘朵啦完美,mitv://54.39.16.152:9906/6260e259000d442b172b48ecdda91b31.ts
 潘朵啦粉红,mitv://54.39.16.152:9906/6260e27a0006cf41172bc82c06b29fb9.ts
 K频道,mitv://54.39.16.152:9906/6263c0cd0009e68a085c9c619861891f.ts
 HOT,mitv://54.39.16.152:9906/6260e0070001ff07172235b9bb1b0cb6.ts
-HAPPY,mitv://54.39.16.152:9906/6260e2420001e45e172aec2a005c42e7.ts
+HAPPY,mitv://54.39.16.152:9906/6260e2b000004933172c99712568d815.ts
 LOOK,mitv://54.39.16.152:9906/6260e2e2000f16e6172d608b5505fbdd.ts
 
 极限电影,mitv://45.92.126.18:9906/6260e061000b04ae172397987c1e3b34.ts
@@ -37,12 +37,12 @@ LOOK,mitv://54.39.16.152:9906/6260e2e2000f16e6172d608b5505fbdd.ts
 彩虹E,mitv://45.92.126.18:9906/62668da3000bd6cc134cc0d079365057.ts
 香蕉台,mitv://45.92.126.18:9906/6260e29a0009b4f9172c45ea502a9f98.ts
 彩虹电影,mitv://45.92.126.18:9906/6260e2d0000cf56c172d19afe4aa1d66.ts
-惊艳电影,mitv://45.92.126.18:9906/6260e2b000004933172c99712568d815.ts
+惊艳电影,mitv://45.92.126.18:9906/6260e2420001e45e172aec2a005c42e7.ts
 潘朵啦完美,mitv://45.92.126.18:9906/6260e259000d442b172b48ecdda91b31.ts
 潘朵啦粉红,mitv://45.92.126.18:9906/6260e27a0006cf41172bc82c06b29fb9.ts
 K频道,mitv://45.92.126.18:9906/6263c0cd0009e68a085c9c619861891f.ts
 HOT,mitv://45.92.126.18:9906/6260e0070001ff07172235b9bb1b0cb6.ts
-HAPPY,mitv://45.92.126.18:9906/6260e2420001e45e172aec2a005c42e7.ts
+HAPPY,mitv://45.92.126.18:9906/6260e2b000004933172c99712568d815.ts
 LOOK,mitv://45.92.126.18:9906/6260e2e2000f16e6172d608b5505fbdd.ts
 #__#
 极限电影,mitv://fccs.word-tv.com:9906/6260e061000b04ae172397987c1e3b34
@@ -52,12 +52,12 @@ LOOK,mitv://45.92.126.18:9906/6260e2e2000f16e6172d608b5505fbdd.ts
 彩虹E,mitv://fccs.word-tv.com:9906/62668da3000bd6cc134cc0d079365057
 香蕉台,mitv://fccs.word-tv.com:9906/6260e29a0009b4f9172c45ea502a9f98
 彩虹电影,mitv://fccs.word-tv.com:9906/6260e2d0000cf56c172d19afe4aa1d66
-惊艳电影,mitv://fccs.word-tv.com:9906/6260e2b000004933172c99712568d815
+惊艳电影,mitv://fccs.word-tv.com:9906/6260e2420001e45e172aec2a005c42e7
 潘朵啦玩美,mitv://fccs.word-tv.com:9906/6260e259000d442b172b48ecdda91b31
 潘朵啦粉红,mitv://fccs.word-tv.com:9906/6260e27a0006cf41172bc82c06b29fb9
 K频道,mitv://fccs.word-tv.com:9906/6263c0cd0009e68a085c9c619861891f
 HOT,mitv://fccs.word-tv.com:9906/6260e0070001ff07172235b9bb1b0cb6
-HAPPY,mitv://fccs.word-tv.com:9906/6260e2420001e45e172aec2a005c42e7
+HAPPY,mitv://fccs.word-tv.com:9906/6260e2b000004933172c99712568d815
 LOOKTV,mitv://fccs.word-tv.com:9906/6260e2e2000f16e6172d608b5505fbdd
 澳视1,mitv://fccs.word-tv.com:9906/62685209000bd522002f77760f5e6638
 澳视2,mitv://fccs.word-tv.com:9906/6268522f000aa0b200300b97a3d1af63
@@ -221,274 +221,274 @@ HOTH,p5p://crfccs.kingh888.com:16666/60ab27ac000dd0ce0e62b1998dc28571
 
 EA1channel_0529,#genre#
 --高清频道,--
-Cum 4K,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6190/index.m3u8
-TINY 4K,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/index.m3u8
-VERAPORN 4K,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/12137/index.m3u8
-VERAPORN 4K 2,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/12138/index.m3u8
-Double Rabbit,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6260/index.m3u8
-mydirtyhobby,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/12183/index.m3u8
-ExxxOtica,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/2397/index.m3u8
-HotWifexxx,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/12187/index.m3u8
-Tushy1,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6261/index.m3u8
-Tushy2,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/12188/index.m3u8
-TushyRaw,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6262/index.m3u8
-Blacked1,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6178/index.m3u8
-Blacked2,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/12190/index.m3u8
-BlackedRaw,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/12191/index.m3u8
-Transerotica,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/12193/index.m3u8
-Planet-randy,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/12204/index.m3u8
-Redlight,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/242/index.m3u8
-Hustler,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/244/index.m3u8
-Dorcel,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/245/index.m3u8
-Dorcel,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/878/index.m3u8
-Dorcelclub,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6197/index.m3u8
-Penthouse Gold,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/5011/index.m3u8
-Penthouse Quickies,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/5013/index.m3u8
-Penthouse Quickies,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/5012/index.m3u8
-Penthouse Passion,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/5010/index.m3u8
-xxl,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/5009/index.m3u8
-Erox,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/5015/index.m3u8
-AdulTtime,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6166/index.m3u8
-Sexart1,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6165/index.m3u8
-Sexart2,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6253/index.m3u8
-21Sextury,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6164/index.m3u8
-Analized,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6168/index.m3u8
-Pinko Tgirls,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6170/index.m3u8
-BabesTV-1,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6171/index.m3u8
-BabesTV-2,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6172/index.m3u8
-BlacksOnBoys,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6169/index.m3u8
-Bang Bros,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6173/index.m3u8
-Bang Bros,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6235/index.m3u8
-Bang!Rammed,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6174/index.m3u8
-Brazzers-1,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6181/index.m3u8
-Brazzers-2,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6182/index.m3u8
-Brazzers-3,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6192/index.m3u8
-Brazzers-4,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6204/index.m3u8
-Brazzers-5,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6203/index.m3u8
-Brazzers-6,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6222/index.m3u8
-Cherry Pimps,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6185/index.m3u8
-ClubSweeThearts,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6186/index.m3u8
-XXxxx,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6200/index.m3u8
-XXXxxx,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6184/index.m3u8
-CumLouder,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6189/index.m3u8
-Daughterswap,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6191/index.m3u8
-DigiTaldesire,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6195/index.m3u8
-DDF Network-1,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6193/index.m3u8
-DDF Network-2,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6194/index.m3u8
-DDF Network-3,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6217/index.m3u8
-DP Digital Playground-1,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6196/index.m3u8
-DP Digital Playground-2,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6210/index.m3u8
-Evilangel,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6199/index.m3u8
-Extasy,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6201/index.m3u8
-Faketaxi,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6202/index.m3u8
-Trueanal,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6206/index.m3u8
-GloryHoleSecrets,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6205/index.m3u8
-nympho,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6208/index.m3u8
-Mylf,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6216/index.m3u8
-Family,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6209/index.m3u8
-Hitzefrei!,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6220/index.m3u8
-Holed,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6221/index.m3u8
-JapanHdv,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6225/index.m3u8
-Littleasians,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6230/index.m3u8
-Hot Guys Fuck,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6229/index.m3u8
-lesbea,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6227/index.m3u8
-Redxxx,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6232/index.m3u8
-Redxxx,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6281/index.m3u8
-Metart,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6233/index.m3u8
-MylfXJoybear,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6236/index.m3u8
-Alsscan,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6239/index.m3u8
-Nubiles,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6238/index.m3u8
-Naughty America,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6237/index.m3u8
-PlayBoy,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6242/index.m3u8
-Private,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6245/index.m3u8
-Public Agent,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6246/index.m3u8
-Sin Ematica,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6255/index.m3u8
-atrans angel,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6259/index.m3u8
-Vixen,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6265/index.m3u8
-VividTV,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6264/index.m3u8
-Visit-X,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6263/index.m3u8
-Wicked,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6268/index.m3u8
-WhitEboxxx,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6267/index.m3u8
-Balkan Erotic,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6270/index.m3u8
-Erox,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6296/index.m3u8
-XvMax,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6286/index.m3u8
-XvMix,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6287/index.m3u8
-DorcelTv,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/12131/index.m3u8
-Dorcelxxx,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/12132/index.m3u8
-VeraPorn1,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/12141/index.m3u8
-VeraPorn2,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/12142/index.m3u8
-Alba xxx-1,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/12105/index.m3u8
-Alba xxx-2,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/12107/index.m3u8
-Alba xxx-3,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/12109/index.m3u8
-Alba xxx-4,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/12106/index.m3u8
-Alba xxx-4,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/12110/index.m3u8
-Alba xxx-5,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/12108/index.m3u8
-Realitykings-1,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6247/index.m3u8
-Realitykings-2,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6248/index.m3u8
-Realitykings-3,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6249/index.m3u8
-Realitykings-4,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6266/index.m3u8
-SL-HOT 1,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/12161/index.m3u8
-SL-HOT 2,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/12162/index.m3u8
-SL-HOT 3,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/12163/index.m3u8
-SL-HOT 4,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/12164/index.m3u8
-SL-HOT 5,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/12165/index.m3u8
-SL-HOT 6,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/12166/index.m3u8
-SL-HOT 7,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/12167/index.m3u8
-SL-HOT 8,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/12168/index.m3u8
-SL-HOT 9,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/12169/index.m3u8
-SL-Erotic,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/12160/index.m3u8
-AdultIPTV-01,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6167/index.m3u8
-AdultIPTV-02,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6175/index.m3u8
-AdultIPTV-03,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6180/index.m3u8
-AdultIPTV-04,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6177/index.m3u8
-AdultIPTV-05,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6176/index.m3u8
-AdultIPTV-06,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6179/index.m3u8
-AdultIPTV-07,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6183/index.m3u8
-AdultIPTV-08,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6187/index.m3u8
-AdultIPTV-09,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6188/index.m3u8
-AdultIPTV-10,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6214/index.m3u8
-AdultIPTV-11,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6215/index.m3u8
-AdultIPTV-12,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6213/index.m3u8
-AdultIPTV-13,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6219/index.m3u8
-AdultIPTV-14,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6224/index.m3u8
-AdultIPTV-15,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6226/index.m3u8
-AdultIPTV-16,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6243/index.m3u8
-AdultIPTV-17,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6228/index.m3u8
-AdultIPTV-18,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6231/index.m3u8
-AdultIPTV-19,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6234/index.m3u8
-AdultIPTV-20,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6244/index.m3u8
-AdultIPTV-21,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6250/index.m3u8
-AdultIPTV-22,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6256/index.m3u8
-AdultIPTV-23,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6257/index.m3u8
-AdultIPTV-24,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6251/index.m3u8
-AdultIPTV-25,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/12171/index.m3u8
-AdultIPTV-26,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/12172/index.m3u8
-AdultIPTV-27,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/12174/index.m3u8
-AdultIPTV-28,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/12173/index.m3u8
-AdultIPTV-29,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/12175/index.m3u8
-AdultIPTV-30,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/12176/index.m3u8
-AdultIPTV-31,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/12184/index.m3u8
-AdultIPTV-32,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/12178/index.m3u8
-AdultIPTV-33,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/12177/index.m3u8
-AdultIPTV-34,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/12180/index.m3u8
-AdultIPTV-35,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/12192/index.m3u8
-欧美hd-01,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6207/index.m3u8
-欧美hd-02,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6254/index.m3u8
-欧美hd-03,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6269/index.m3u8
-欧美hd-04,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/12154/index.m3u8
-欧美hd-05,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/12155/index.m3u8
-欧美hd-06,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/12156/index.m3u8
-欧美hd-07,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/12157/index.m3u8
-欧美hd-08,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/12181/index.m3u8
-欧美hd-09,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/12205/index.m3u8
+Cum 4K,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6190/index.m3u8
+TINY 4K,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/index.m3u8
+VERAPORN 4K,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/12137/index.m3u8
+VERAPORN 4K 2,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/12138/index.m3u8
+Double Rabbit,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6260/index.m3u8
+mydirtyhobby,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/12183/index.m3u8
+ExxxOtica,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/2397/index.m3u8
+HotWifexxx,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/12187/index.m3u8
+Tushy1,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6261/index.m3u8
+Tushy2,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/12188/index.m3u8
+TushyRaw,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6262/index.m3u8
+Blacked1,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6178/index.m3u8
+Blacked2,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/12190/index.m3u8
+BlackedRaw,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/12191/index.m3u8
+Transerotica,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/12193/index.m3u8
+Planet-randy,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/12204/index.m3u8
+Redlight,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/242/index.m3u8
+Hustler,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/244/index.m3u8
+Dorcel,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/245/index.m3u8
+Dorcel,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/878/index.m3u8
+Dorcelclub,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6197/index.m3u8
+Penthouse Gold,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/5011/index.m3u8
+Penthouse Quickies,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/5013/index.m3u8
+Penthouse Quickies,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/5012/index.m3u8
+Penthouse Passion,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/5010/index.m3u8
+xxl,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/5009/index.m3u8
+Erox,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/5015/index.m3u8
+AdulTtime,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6166/index.m3u8
+Sexart1,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6165/index.m3u8
+Sexart2,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6253/index.m3u8
+21Sextury,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6164/index.m3u8
+Analized,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6168/index.m3u8
+Pinko Tgirls,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6170/index.m3u8
+BabesTV-1,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6171/index.m3u8
+BabesTV-2,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6172/index.m3u8
+BlacksOnBoys,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6169/index.m3u8
+Bang Bros,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6173/index.m3u8
+Bang Bros,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6235/index.m3u8
+Bang!Rammed,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6174/index.m3u8
+Brazzers-1,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6181/index.m3u8
+Brazzers-2,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6182/index.m3u8
+Brazzers-3,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6192/index.m3u8
+Brazzers-4,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6204/index.m3u8
+Brazzers-5,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6203/index.m3u8
+Brazzers-6,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6222/index.m3u8
+Cherry Pimps,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6185/index.m3u8
+ClubSweeThearts,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6186/index.m3u8
+XXxxx,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6200/index.m3u8
+XXXxxx,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6184/index.m3u8
+CumLouder,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6189/index.m3u8
+Daughterswap,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6191/index.m3u8
+DigiTaldesire,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6195/index.m3u8
+DDF Network-1,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6193/index.m3u8
+DDF Network-2,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6194/index.m3u8
+DDF Network-3,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6217/index.m3u8
+DP Digital Playground-1,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6196/index.m3u8
+DP Digital Playground-2,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6210/index.m3u8
+Evilangel,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6199/index.m3u8
+Extasy,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6201/index.m3u8
+Faketaxi,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6202/index.m3u8
+Trueanal,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6206/index.m3u8
+GloryHoleSecrets,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6205/index.m3u8
+nympho,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6208/index.m3u8
+Mylf,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6216/index.m3u8
+Family,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6209/index.m3u8
+Hitzefrei!,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6220/index.m3u8
+Holed,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6221/index.m3u8
+JapanHdv,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6225/index.m3u8
+Littleasians,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6230/index.m3u8
+Hot Guys Fuck,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6229/index.m3u8
+lesbea,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6227/index.m3u8
+Redxxx,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6232/index.m3u8
+Redxxx,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6281/index.m3u8
+Metart,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6233/index.m3u8
+MylfXJoybear,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6236/index.m3u8
+Alsscan,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6239/index.m3u8
+Nubiles,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6238/index.m3u8
+Naughty America,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6237/index.m3u8
+PlayBoy,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6242/index.m3u8
+Private,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6245/index.m3u8
+Public Agent,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6246/index.m3u8
+Sin Ematica,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6255/index.m3u8
+atrans angel,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6259/index.m3u8
+Vixen,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6265/index.m3u8
+VividTV,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6264/index.m3u8
+Visit-X,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6263/index.m3u8
+Wicked,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6268/index.m3u8
+WhitEboxxx,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6267/index.m3u8
+Balkan Erotic,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6270/index.m3u8
+Erox,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6296/index.m3u8
+XvMax,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6286/index.m3u8
+XvMix,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6287/index.m3u8
+DorcelTv,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/12131/index.m3u8
+Dorcelxxx,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/12132/index.m3u8
+VeraPorn1,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/12141/index.m3u8
+VeraPorn2,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/12142/index.m3u8
+Alba xxx-1,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/12105/index.m3u8
+Alba xxx-2,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/12107/index.m3u8
+Alba xxx-3,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/12109/index.m3u8
+Alba xxx-4,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/12106/index.m3u8
+Alba xxx-4,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/12110/index.m3u8
+Alba xxx-5,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/12108/index.m3u8
+Realitykings-1,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6247/index.m3u8
+Realitykings-2,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6248/index.m3u8
+Realitykings-3,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6249/index.m3u8
+Realitykings-4,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6266/index.m3u8
+SL-HOT 1,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/12161/index.m3u8
+SL-HOT 2,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/12162/index.m3u8
+SL-HOT 3,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/12163/index.m3u8
+SL-HOT 4,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/12164/index.m3u8
+SL-HOT 5,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/12165/index.m3u8
+SL-HOT 6,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/12166/index.m3u8
+SL-HOT 7,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/12167/index.m3u8
+SL-HOT 8,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/12168/index.m3u8
+SL-HOT 9,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/12169/index.m3u8
+SL-Erotic,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/12160/index.m3u8
+AdultIPTV-01,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6167/index.m3u8
+AdultIPTV-02,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6175/index.m3u8
+AdultIPTV-03,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6180/index.m3u8
+AdultIPTV-04,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6177/index.m3u8
+AdultIPTV-05,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6176/index.m3u8
+AdultIPTV-06,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6179/index.m3u8
+AdultIPTV-07,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6183/index.m3u8
+AdultIPTV-08,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6187/index.m3u8
+AdultIPTV-09,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6188/index.m3u8
+AdultIPTV-10,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6214/index.m3u8
+AdultIPTV-11,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6215/index.m3u8
+AdultIPTV-12,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6213/index.m3u8
+AdultIPTV-13,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6219/index.m3u8
+AdultIPTV-14,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6224/index.m3u8
+AdultIPTV-15,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6226/index.m3u8
+AdultIPTV-16,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6243/index.m3u8
+AdultIPTV-17,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6228/index.m3u8
+AdultIPTV-18,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6231/index.m3u8
+AdultIPTV-19,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6234/index.m3u8
+AdultIPTV-20,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6244/index.m3u8
+AdultIPTV-21,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6250/index.m3u8
+AdultIPTV-22,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6256/index.m3u8
+AdultIPTV-23,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6257/index.m3u8
+AdultIPTV-24,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6251/index.m3u8
+AdultIPTV-25,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/12171/index.m3u8
+AdultIPTV-26,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/12172/index.m3u8
+AdultIPTV-27,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/12174/index.m3u8
+AdultIPTV-28,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/12173/index.m3u8
+AdultIPTV-29,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/12175/index.m3u8
+AdultIPTV-30,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/12176/index.m3u8
+AdultIPTV-31,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/12184/index.m3u8
+AdultIPTV-32,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/12178/index.m3u8
+AdultIPTV-33,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/12177/index.m3u8
+AdultIPTV-34,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/12180/index.m3u8
+AdultIPTV-35,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/12192/index.m3u8
+欧美hd-01,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6207/index.m3u8
+欧美hd-02,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6254/index.m3u8
+欧美hd-03,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6269/index.m3u8
+欧美hd-04,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/12154/index.m3u8
+欧美hd-05,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/12155/index.m3u8
+欧美hd-06,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/12156/index.m3u8
+欧美hd-07,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/12157/index.m3u8
+欧美hd-08,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/12181/index.m3u8
+欧美hd-09,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/12205/index.m3u8
 --标清频道,--
-Lesbian,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/147/index.m3u8
-defloration,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6211/index.m3u8
-Blue Hustler,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/1064/index.m3u8
-Dusk,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6198/index.m3u8
-BarelyLegal,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/871/index.m3u8
-XYplus-1,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/12116/index.m3u8
-XYplus-2,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/12117/index.m3u8
-XYplus-3,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/12118/index.m3u8
-XYplus-4,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/12119/index.m3u8
-U Bang-1,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/12114/index.m3u8
-U Bang-2,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/12128/index.m3u8
-U Bang-3,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/12170/index.m3u8
-U Bang-4,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/12152/index.m3u8
-Erotic,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6289/index.m3u8
-Erotic,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/12146/index.m3u8
-Erotic2,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6290/index.m3u8
-Erotic2,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/12147/index.m3u8
-Erotic3,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6291/index.m3u8
-Erotic4,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6292/index.m3u8
-Erotic5,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/12148/index.m3u8
-Erotic5,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6240/index.m3u8
-Erotic6,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6241/index.m3u8
-Erotic6,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6293/index.m3u8
-Erotic6,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/12149/index.m3u8
-Erotic6,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/12151/index.m3u8
-Erotic7,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6294/index.m3u8
-Erotic8,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6295/index.m3u8
-Erotic8,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/12153/index.m3u8
-PlayBoy1,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/12135/index.m3u8
-PlayBoy1,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/527/index.m3u8
-PlayBoy2,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6280/index.m3u8
-欧美-01,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6252/index.m3u8
-欧美-02,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/12136/index.m3u8
-欧美-03,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/12158/index.m3u8
-欧美-04,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6276/index.m3u8
-欧美-05,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6275/index.m3u8
-欧美-05,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6282/index.m3u8
-欧美-06,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6285/index.m3u8
-欧美-07,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6284/index.m3u8
-欧美-08,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6297/index.m3u8
-欧美-09,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6298/index.m3u8
-欧美-10,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/12189/index.m3u8
-欧美-11,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/12194/index.m3u8
-欧美-12,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/12112/index.m3u8
-欧美-13,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/12113/index.m3u8
-欧美-14,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/12111/index.m3u8
-欧美-15,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/12120/index.m3u8
-欧美-16,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/12121/index.m3u8
-欧美-17,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/12123/index.m3u8
-欧美-18,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/12122/index.m3u8
-欧美-19,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/12125/index.m3u8
-欧美-20,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/12124/index.m3u8
-欧美-21,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/12130/index.m3u8
-欧美-22,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/12129/index.m3u8
-欧美-23,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/874/index.m3u8
-欧美-24,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/876/index.m3u8
-欧美-25,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/12133/index.m3u8
-Brazzers TV Europe,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/910/index.m3u8
-Шалун,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/922/index.m3u8
-Candy,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/923/index.m3u8
-Hustler HD orig,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/9065/index.m3u8
-Penthouse Passion HD,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/1073/index.m3u8
-Нюарт TV,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/2057/index.m3u8
-Sexto Senso,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/875/index.m3u8
-FrenchLover,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/2160/index.m3u8
-O-la-la,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/2161/index.m3u8
-Extasy 4K,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/5014/index.m3u8
-Private TV,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/243/index.m3u8
-Русская ночь orig,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/9344/index.m3u8
-Hard X,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6218/index.m3u8
-Hot Guys Fuck,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6223/index.m3u8
-Bangerz,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6271/index.m3u8
-Emanuelle HD,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6272/index.m3u8
-Extreme,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6273/index.m3u8
-Fast Boyz,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6274/index.m3u8
-Hot Pleasure,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6277/index.m3u8
-Lesbian Affair,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6278/index.m3u8
-Oldtimer,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6279/index.m3u8
-Taboo,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6283/index.m3u8
-XY Plus HD,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/6288/index.m3u8
-Dorcel HD orig,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/9064/index.m3u8
-Redlight HD orig,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/9066/index.m3u8
-Passion XXX orig,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/9067/index.m3u8
-O-La-La orig,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/9068/index.m3u8
-XXL orig,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/9345/index.m3u8
-EXXXOTICA HD orig,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/9346/index.m3u8
-EXTASY HD,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/11051/index.m3u8
-KinoXXX,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/11052/index.m3u8
-ОХ-АХ HD,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/11068/index.m3u8
-VF Cartoon 18+,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/11117/index.m3u8
-FREE X TV,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/12134/index.m3u8
-VERAPORN TEENS,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/12139/index.m3u8
-VERAPORN TEENS 2,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/12140/index.m3u8
-VERAPORN ANAL,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/12143/index.m3u8
-VERAPORN FEET,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/12144/index.m3u8
-VERAPORN BIG TITS,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/12145/index.m3u8
-PINK EROTICA 5,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/12150/index.m3u8
-XXX Love\'s Berry HD,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/14140/index.m3u8
-YOSSO TV SEXY,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/14176/index.m3u8
-SKY HIGH ADULT HD,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/15166/index.m3u8
-Kaloopy hd tv,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/16018/index.m3u8
-LIBERTY EROTIKA HD,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/16069/index.m3u8
-Кино 18+ HD,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/18075/index.m3u8
-Кино 18+ International,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/18076/index.m3u8
-Kinoshka Adult HD,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/18060/index.m3u8
-Eromania 4K,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/10049/index.m3u8
-DuckTV HD,http://c3h5cjkd.russtv.net/iptv/9KPXQ46AAHB9FL/18138/index.m3u8
+Lesbian,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/147/index.m3u8
+defloration,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6211/index.m3u8
+Blue Hustler,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/1064/index.m3u8
+Dusk,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6198/index.m3u8
+BarelyLegal,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/871/index.m3u8
+XYplus-1,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/12116/index.m3u8
+XYplus-2,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/12117/index.m3u8
+XYplus-3,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/12118/index.m3u8
+XYplus-4,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/12119/index.m3u8
+U Bang-1,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/12114/index.m3u8
+U Bang-2,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/12128/index.m3u8
+U Bang-3,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/12170/index.m3u8
+U Bang-4,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/12152/index.m3u8
+Erotic,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6289/index.m3u8
+Erotic,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/12146/index.m3u8
+Erotic2,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6290/index.m3u8
+Erotic2,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/12147/index.m3u8
+Erotic3,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6291/index.m3u8
+Erotic4,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6292/index.m3u8
+Erotic5,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/12148/index.m3u8
+Erotic5,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6240/index.m3u8
+Erotic6,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6241/index.m3u8
+Erotic6,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6293/index.m3u8
+Erotic6,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/12149/index.m3u8
+Erotic6,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/12151/index.m3u8
+Erotic7,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6294/index.m3u8
+Erotic8,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6295/index.m3u8
+Erotic8,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/12153/index.m3u8
+PlayBoy1,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/12135/index.m3u8
+PlayBoy1,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/527/index.m3u8
+PlayBoy2,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6280/index.m3u8
+欧美-01,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6252/index.m3u8
+欧美-02,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/12136/index.m3u8
+欧美-03,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/12158/index.m3u8
+欧美-04,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6276/index.m3u8
+欧美-05,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6275/index.m3u8
+欧美-05,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6282/index.m3u8
+欧美-06,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6285/index.m3u8
+欧美-07,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6284/index.m3u8
+欧美-08,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6297/index.m3u8
+欧美-09,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6298/index.m3u8
+欧美-10,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/12189/index.m3u8
+欧美-11,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/12194/index.m3u8
+欧美-12,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/12112/index.m3u8
+欧美-13,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/12113/index.m3u8
+欧美-14,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/12111/index.m3u8
+欧美-15,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/12120/index.m3u8
+欧美-16,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/12121/index.m3u8
+欧美-17,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/12123/index.m3u8
+欧美-18,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/12122/index.m3u8
+欧美-19,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/12125/index.m3u8
+欧美-20,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/12124/index.m3u8
+欧美-21,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/12130/index.m3u8
+欧美-22,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/12129/index.m3u8
+欧美-23,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/874/index.m3u8
+欧美-24,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/876/index.m3u8
+欧美-25,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/12133/index.m3u8
+Brazzers TV Europe,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/910/index.m3u8
+Шалун,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/922/index.m3u8
+Candy,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/923/index.m3u8
+Hustler HD orig,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/9065/index.m3u8
+Penthouse Passion HD,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/1073/index.m3u8
+Нюарт TV,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/2057/index.m3u8
+Sexto Senso,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/875/index.m3u8
+FrenchLover,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/2160/index.m3u8
+O-la-la,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/2161/index.m3u8
+Extasy 4K,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/5014/index.m3u8
+Private TV,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/243/index.m3u8
+Русская ночь orig,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/9344/index.m3u8
+Hard X,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6218/index.m3u8
+Hot Guys Fuck,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6223/index.m3u8
+Bangerz,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6271/index.m3u8
+Emanuelle HD,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6272/index.m3u8
+Extreme,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6273/index.m3u8
+Fast Boyz,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6274/index.m3u8
+Hot Pleasure,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6277/index.m3u8
+Lesbian Affair,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6278/index.m3u8
+Oldtimer,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6279/index.m3u8
+Taboo,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6283/index.m3u8
+XY Plus HD,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/6288/index.m3u8
+Dorcel HD orig,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/9064/index.m3u8
+Redlight HD orig,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/9066/index.m3u8
+Passion XXX orig,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/9067/index.m3u8
+O-La-La orig,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/9068/index.m3u8
+XXL orig,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/9345/index.m3u8
+EXXXOTICA HD orig,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/9346/index.m3u8
+EXTASY HD,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/11051/index.m3u8
+KinoXXX,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/11052/index.m3u8
+ОХ-АХ HD,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/11068/index.m3u8
+VF Cartoon 18+,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/11117/index.m3u8
+FREE X TV,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/12134/index.m3u8
+VERAPORN TEENS,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/12139/index.m3u8
+VERAPORN TEENS 2,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/12140/index.m3u8
+VERAPORN ANAL,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/12143/index.m3u8
+VERAPORN FEET,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/12144/index.m3u8
+VERAPORN BIG TITS,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/12145/index.m3u8
+PINK EROTICA 5,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/12150/index.m3u8
+XXX Love\'s Berry HD,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/14140/index.m3u8
+YOSSO TV SEXY,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/14176/index.m3u8
+SKY HIGH ADULT HD,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/15166/index.m3u8
+Kaloopy hd tv,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/16018/index.m3u8
+LIBERTY EROTIKA HD,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/16069/index.m3u8
+Кино 18+ HD,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/18075/index.m3u8
+Кино 18+ International,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/18076/index.m3u8
+Kinoshka Adult HD,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/18060/index.m3u8
+Eromania 4K,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/10049/index.m3u8
+DuckTV HD,http://xraq0gdj.russtv.net/iptv/VZ87RKXF44Z9HB/18138/index.m3u8
 
 --高清频道,--
 Cum 4K,http://fcf2e861.ucomist.net/iptv/CB5F2GMTR7SUDF/6190/index.m3u8
