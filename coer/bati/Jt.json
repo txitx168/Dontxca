@@ -1,5 +1,11 @@
 {
   "sites": [
+        {
+      "key": "豆瓣-JS",
+      "name": "豆瓣[JS]",
+      "type": 3,
+      "api": "https://txitx168.github.io/Dontxca/coer/bati/duoban.js"
+    },
     {
       "key": "77-JS",
       "name": "77[JS]",
