@@ -4,8 +4,8 @@ import './lib/uri.min.js';
 import './lib/crypto-js.js'
 import _ from './lib/underscore-esm-min.js'
 
-let key = 'app.wnvod';
-let url = 'http://app.wnvod.net';
+let key = 'app.klyingshi';
+let url = 'http://klyingshi.com/api.php';
 let agent = 'Dalvik/2.1.0 (Linux; U; Android 6.0; ZTE BA520 Build/MRA58K)';
 let deviceId = '';
 let timeOffset = 0;
