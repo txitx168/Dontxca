@@ -1,10 +1,10 @@
 {
   "sites": [
         {
-      "key": "klyingshi-JS",
-      "name": "klyingshi[JS]",
+      "key": "360ys-JS",
+      "name": "360影视[JS]",
       "type": 3,
-      "api": "https://txitx168.github.io/Dontxca/coer/bati/klyingshi.js"
+      "api": "https://txitx168.github.io/Dontxca/coer/bati/360ys.js"
     },
     {
       "key": "77-JS",
@@ -14,10 +14,17 @@
     },
     {
       "key": "77-JS-2",
-      "name": "77[JS]2",
+      "name": "七七[JS]2",
       "type": 3,
       "api": "https://txitx168.github.io/Dontxca/coer/bati/kunyu77_2.js"
+    },
+    {
+      "key": "drzbk-JS",
+      "name": "真不卡[JS]",
+      "type": 3,
+      "api": "https://txitx168.github.io/Dontxca/coer/bati/drzbk.js"
     }
+    {
   ],
   "lives": [
     {
