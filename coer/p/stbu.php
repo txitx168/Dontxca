@@ -1,19 +1,17 @@
 KF-channel_0529,#genre#
-极限电影,mitv://ns1.hellotvvod.com:9906/ecf8ee53a43545888c55f2c9d4f57f80.ts
-松视1台,mitv://ns1.hellotvvod.com:9906/1dd11855e43142d6aec1b7f824097388.ts
-松视2台,mitv://ns1.hellotvvod.com:9906/c76a909ae59d4e82ad59a3bc6cb09663.ts
-松视3台,mitv://ns1.hellotvvod.com:9906/deceaed6309f406a8670002cf2ce7b9d.ts
-彩虹E,mitv://ns1.hellotvvod.com:9906/eb7a0e51d5204093925f38e0fd298b1b.ts
-香蕉台,mitv://ns1.hellotvvod.com:9906/7f07683c361f4dbcb4aaf22ab48e513a.ts
-彩虹电影,mitv://ns1.hellotvvod.com:9906/c151f129e31846f691cd2b3ae554d4d1.ts
-惊艳电影,mitv://ns1.hellotvvod.com:9906/74d29e2d271948bfa7644c1af47e3b83.ts
-潘朵啦玩美,mitv://ns1.hellotvvod.com:9906/eecd1c81c5cf469fbb58fda5f0569f07.ts
-潘朵啦粉红,mitv://ns1.hellotvvod.com:9906/88b34261274b455a9fb8bbd9d1f1bdcb.ts
-K频道,mitv://ns1.hellotvvod.com:9906/0e5867d2753148c6ae0d8aecaec1f1c4.ts
-HOT,mitv://ns1.hellotvvod.com:9906/cd173b013ed340daa83e4e459edbabcd.ts
-HAPPY,mitv://ns1.hellotvvod.com:9906/421e2d4b03134e9080b3e0991224a718.ts
-LOOKTV,mitv://ns1.hellotvvod.com:9906/696ef0eedc544326856362f2dfee01e0.ts
-PLAYBOY,mitv://ns1.hellotvvod.com:9906/827d787ee94447a7912d7d4e9c261792.ts
+彩虹e台,mitv://ns1.hellotvvod.com:9906/fa7914f003954bbea6fb197c9cd57824
+彩虹电影台,mitv://ns1.hellotvvod.com:9906/1e28628f429447fb8617c162d4ffdb19
+LOOK TV,mitv://ns1.hellotvvod.com:9906/88fa25183c9b47d6920987954fbfdcfb
+潘朵啦玩美台,mitv://ns1.hellotvvod.com:9906/84b7352bfe9c41a2b5f8bd6e13c31000
+惊艳成人电影台,mitv://ns1.hellotvvod.com:9906/a65bcc137a76418b9f2ef842e6b8ea44
+松视1台,mitv://ns1.hellotvvod.com:9906/91faa433a9544c8785cd215a2ad6fcda
+松视2台,mitv://ns1.hellotvvod.com:9906/80a9c735329544c9ab7fa3e2425f86cd
+PLAYBOY,mitv://ns1.hellotvvod.com:9906/d97f4ae150ba4c6792171c088d1c033f
+香蕉台,mitv://ns1.hellotvvod.com:9906/40968f1afa564083ba7670ec10aabe1a
+松视3台,mitv://ns1.hellotvvod.com:9906/e67a4e22ee4c496282298f612f200fe5
+JStar极限台,mitv://ns1.hellotvvod.com:9906/331c31537de3490cb0dfebcf5b58ac14
+HAPPY,mitv://ns1.hellotvvod.com:9906/634f970f0002bd9d50ba50ab13577c0f
+K,mitv://ns1.hellotvvod.com:9906/302db2d2f4c5487bba0c509275e6378e
 
 极限电影,mitv://54.39.16.152:9906/6260e061000b04ae172397987c1e3b34.ts
 松视1台,mitv://54.39.16.152:9906/6260dfaa0008dccc1720cc33ffe57894.ts
