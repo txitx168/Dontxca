@@ -1,16 +1,17 @@
 KF-channel_0529,#genre#
-彩虹e台,p2p://ns1.hellotvvod.com:9906/86e662064cf9436793a16e47fc39de52
-彩虹电影台,p2p://ns1.hellotvvod.com:9906/19f083ea7023401581ae82a77f415e2d
-LOOK TV,p2p://ns1.hellotvvod.com:9906/a61f3fdd9f6646f1b8d3985c44f1a33d
-潘朵啦玩美台,p2p://ns1.hellotvvod.com:9906/b6bdd4d836a2407593eb32202b7ec446
-惊艳成人电影台,p2p://ns1.hellotvvod.com:9906/bae9da98c68a472caf727d355a8eeb68
-松视1台,p2p://ns1.hellotvvod.com:9906/98f15b2f09074b869e42fb913be0a953
-松视2台,p2p://ns1.hellotvvod.com:9906/fc6f7eddb7814d30860c04825d7f491f
-PLAYBOY,p2p://ns1.hellotvvod.com:9906/b6f328fed8794fa8b03d367646266ae9
-香蕉台,p2p://ns1.hellotvvod.com:9906/43d31a58a78f43d3801e964041a0ad95
-松视3台,p2p://ns1.hellotvvod.com:9906/3e0949602d734ebcbb49bbd515febe61
-JStar极限台,p2p://ns1.hellotvvod.com:9906/b1da6a642b3e4e2091eeb9f724925db9
-HAPPY,p2p://ns1.hellotvvod.com:9906/2107240c5bb8446b9dc9543437366b7d
+彩虹e台,mitv://ns1.hellotvvod.com:9906/4e211fdc77e94f5897d6c9dd0839bae3
+彩虹电影台,mitv://ns1.hellotvvod.com:9906/0d37ba37bb7c42ed92faabd2d1828298
+LOOK TV,mitv://ns1.hellotvvod.com:9906/5690342b6e5146df9ce877cf33e6b1ae
+潘朵啦玩美台,mitv://ns1.hellotvvod.com:9906/c94219b46a74450d94203db38a003a3d
+惊艳成人电影台,mitv://ns1.hellotvvod.com:9906/3eb641a142f143ef81fd421dd1446502
+松视1台,mitv://ns1.hellotvvod.com:9906/a276671c80b14db2ab868985b7ec4f6d
+松视2台,mitv://ns1.hellotvvod.com:9906/a396a9bb55ae4df685257ae88bd02377
+PLAYBOY,mitv://ns1.hellotvvod.com:9906/fc4104e4d00843e08fcd9b9b2888767a
+香蕉台,mitv://ns1.hellotvvod.com:9906/8463bb35326f4a81b4f164bb1a81b8d7
+松视3台,mitv://ns1.hellotvvod.com:9906/242a68ed22ee4d3fba9d2dbeab085d38
+JStar极限台,mitv://ns1.hellotvvod.com:9906/58f258b7ce1640bf880910c8ebf63eab
+HAPPY,mitv://ns1.hellotvvod.com:9906/d900eb75227c40be9e57f653bf892b8c
+K,mitv://ns1.hellotvvod.com:9906/9041c4f82ee941bb9805069060b72599
 
 极限电影,mitv://54.39.16.152:9906/6260e061000b04ae172397987c1e3b34.ts
 松视1台,mitv://54.39.16.152:9906/6260dfaa0008dccc1720cc33ffe57894.ts
