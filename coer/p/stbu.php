@@ -1,17 +1,17 @@
 KF-channel_0529,#genre#
-彩虹e台,mitv://ns3.hellotvvod.com:9906/f25bdd85818748688189670f3a6b22c2
-彩虹电影台,mitv://ns3.hellotvvod.com:9906/3d057a573d1f443e9b5b875de1bdf608
-LOOK TV,mitv://ns3.hellotvvod.com:9906/7a5ddc086a3d459f8adea3597c9f7d60
-潘朵啦玩美台,mitv://ns3.hellotvvod.com:9906/920530a511934ff980a0bc4ffb64f51c
-惊艳成人电影台,mitv://ns3.hellotvvod.com:9906/d3fb9dd99d004118a5eb9f98dd20b053
-松视1台,mitv://ns3.hellotvvod.com:9906/b220e1df95e141188def1de2d1a3507e
-松视2台,mitv://ns3.hellotvvod.com:9906/d4e997cdc91b4506bf391e7222b77abc
-PLAYBOY,mitv://ns3.hellotvvod.com:9906/a5480458bcb946b18d21b751db08a8e1
-香蕉台,mitv://ns3.hellotvvod.com:9906/91088314de8b461ba3aaa1f27ae3732b
-松视3台,mitv://ns3.hellotvvod.com:9906/6c96963b9c974eb88da6ff55f3b77773
-JStar极限台,mitv://ns3.hellotvvod.com:9906/9ca49d959a29450fbc3f7766f7769e54
-HAPPY,mitv://ns3.hellotvvod.com:9906/558344159fd74ed2bf8e4cc925a0eb1f
-K,mitv://ns3.hellotvvod.com:9906/59281d33d7d24944abcf3d4aa0ed524c
+彩虹e台",mitv://generationnexxxt.com:9906/3ed3a87c9a4d485f896122e0682fdb12
+彩虹电影台",mitv://generationnexxxt.com:9906/166b10b0247d475abc0151adeb088146
+LOOK TV",mitv://generationnexxxt.com:9906/59a595c19e7448d5b8dfe0f913d1c0f6
+潘朵啦玩美台",mitv://generationnexxxt.com:9906/3a6b4d3d19eb4848aac2aaa77e980441
+惊艳成人电影台",mitv://generationnexxxt.com:9906/44b2795ce3b240beaba8b2b08daf662d
+松视1台",mitv://generationnexxxt.com:9906/0029bf9f99404c5ba1cee97e14ca39fd
+松视2台",mitv://generationnexxxt.com:9906/77029388d37445b9bf0740d74a95c83c
+PLAYBOY",mitv://generationnexxxt.com:9906/192dabb7a5e9481083de1c4c1f9c1cd1
+香蕉台",mitv://generationnexxxt.com:9906/744c31eeee3c4d4e85d994828b48e866
+松视3台",mitv://generationnexxxt.com:9906/6bc46f3fb81c4e51a850fdc6370267bf
+mitv://generationnexxxt.com:9906/b267ce08e68a42f3b386428c1222313f
+HAPPY",mitv://generationnexxxt.com:9906/cbaed3220bf94e4e89a5815911a10d2f
+K频道",mitv://generationnexxxt.com:9906/7e9d1131b8724c25b7f56eb46416c1b4
 
 极限电影,mitv://54.39.16.152:9906/6260e061000b04ae172397987c1e3b34.ts
 松视1台,mitv://54.39.16.152:9906/6260dfaa0008dccc1720cc33ffe57894.ts
