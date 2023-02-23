@@ -1,17 +1,17 @@
 KF-channel_0529,#genre#
-彩虹e臺,mitv://generationnexxxt.com:19806/9a97004e2ba44dbe8c914dbeadee4b2f
-彩虹電影臺,mitv://generationnexxxt.com:19806/3ef7a7fd87a449768196614c6433b080
-看電視,mitv://generationnexxxt.com:19806/22344863fe414c439c9308b4aa2c4d3d
-潘朵拉玩美臺,mitv://generationnexxxt.com:19806/95a3bc8a9acc421eb9469b4c13353028
-驚艷成人電影臺,mitv://generationnexxxt.com:19806/d50084be17bd4adc8857dbd9e9ebbf25
-松視1臺,mitv://generationnexxxt.com:19806/036970456a824a099a71595b6baf3921
-松視2臺,mitv://generationnexxxt.com:19806/966ca0ffb710420ca2544fd6cdf1097f
-花花公子,mitv://generationnexxxt.com:19806/082597a99d8247a3a791f44314cdb233
-香草臺,mitv://generationnexxxt.com:19806/7523ece4707041c3a7aeb64c26aec183
-松視3臺,mitv://generationnexxxt.com:19806/b8f8ad4e4b8847b289491374ddebe9fd
-JStar極限臺,mitv://generationnexxxt.com:19806/3dae125a616947bfbfbbb303f9223f64
-快樂,mitv://generationnexxxt.com:19806/56b9936bf2284a8c8ba7717b0f2cbe24
-K,mitv://generationnexxxt.com:19806/3f0ab1d712b24f2ab466ed283f8e7469
+彩虹e台,mitv://generationnexxxt.com:19806/3d8f43de242d49b6be4616aa4ef40f8d
+彩虹電影台,mitv://generationnexxxt.com:19806/d39f0c9d15df42aaa2486ecaac9ed5a8
+LOOK TV,mitv://generationnexxxt.com:19806/a058f3e33b5f4b28ab0a035345a7762e
+潘朵啦玩美台,mitv://generationnexxxt.com:19806/05e56c737cc044a5acd6a4e76a9b8d61
+驚豔成人電影台,mitv://generationnexxxt.com:19806/e015a3821629475e9c73694dbc170d9d
+松視1台,mitv://generationnexxxt.com:19806/c89103eeecc64e2eb26b4cb6c9b89a07
+松視2台,mitv://generationnexxxt.com:19806/468e47f4b4ae47879a171eb0dd75f463
+PLAYBOY,mitv://generationnexxxt.com:19806/0a3f9dba3ca34135971374b62deb50c0
+香蕉台,mitv://generationnexxxt.com:19806/eda0fc87e17349c5a8e94c1ffceed3b3
+松視3台,mitv://generationnexxxt.com:19806/c41a63bb2c364ee39e7909477f1fba8f
+JStar極限台,mitv://generationnexxxt.com:19806/ede07f651b8048d0afe848d448faad1e
+HAPPY,mitv://generationnexxxt.com:19806/dce67c84705846808666973c4fd4efd9
+K,mitv://generationnexxxt.com:19806/c0a11fa2d2964825956fa8ba2f980b68
 
 极限电影,mitv://54.39.16.152:9906/6260e061000b04ae172397987c1e3b34.ts
 松视1台,mitv://54.39.16.152:9906/6260dfaa0008dccc1720cc33ffe57894.ts
