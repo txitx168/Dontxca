@@ -1,17 +1,17 @@
 KF-channel_0529,#genre#
-彩虹e台,mitv://generationnexxxt.com:19806/3d8f43de242d49b6be4616aa4ef40f8d
-彩虹電影台,mitv://generationnexxxt.com:19806/d39f0c9d15df42aaa2486ecaac9ed5a8
-LOOK TV,mitv://generationnexxxt.com:19806/a058f3e33b5f4b28ab0a035345a7762e
-潘朵啦玩美台,mitv://generationnexxxt.com:19806/05e56c737cc044a5acd6a4e76a9b8d61
-驚豔成人電影台,mitv://generationnexxxt.com:19806/e015a3821629475e9c73694dbc170d9d
-松視1台,mitv://generationnexxxt.com:19806/c89103eeecc64e2eb26b4cb6c9b89a07
-松視2台,mitv://generationnexxxt.com:19806/468e47f4b4ae47879a171eb0dd75f463
-PLAYBOY,mitv://generationnexxxt.com:19806/0a3f9dba3ca34135971374b62deb50c0
-香蕉台,mitv://generationnexxxt.com:19806/eda0fc87e17349c5a8e94c1ffceed3b3
-松視3台,mitv://generationnexxxt.com:19806/c41a63bb2c364ee39e7909477f1fba8f
-JStar極限台,mitv://generationnexxxt.com:19806/ede07f651b8048d0afe848d448faad1e
-HAPPY,mitv://generationnexxxt.com:19806/dce67c84705846808666973c4fd4efd9
-K,mitv://generationnexxxt.com:19806/c0a11fa2d2964825956fa8ba2f980b68
+彩虹e台,mitv://generationnexxxt.com:19806/1cc806a1cd934ef59217cbe816c38018
+彩虹电影台,mitv://generationnexxxt.com:19806/ede503079f114bc6bf365846ba424990
+LOOK TV,mitv://generationnexxxt.com:19806/20398d4884a6475bb6a1520411b50b54
+潘朵啦玩美台,mitv://generationnexxxt.com:19806/bc43c724e539490691c8f7e1d3db27e6
+惊艳成人电影台,mitv://generationnexxxt.com:19806/ca147220763d40dd8cb24116cc3fcb7e
+松视1台,mitv://generationnexxxt.com:19806/63b6d349ebc247618a07b53deb0c00b0
+松视2台,mitv://generationnexxxt.com:19806/69d7816ce9234d5a82bd93992a85cad8
+PLAYBOY,mitv://generationnexxxt.com:19806/58088a697825496fa8e7fa048f7ee6ff
+香蕉台,mitv://generationnexxxt.com:19806/f53ee5ccaf464f418f32ac1feffac1dd
+松视3台,mitv://generationnexxxt.com:19806/90c8cadbc11f459380c04480de7630c3
+JStar极限台,mitv://generationnexxxt.com:19806/761b412082534116b4a63d46130ea3d4
+HAPPY,mitv://generationnexxxt.com:19806/276ad3db2b6746559d60eded6e93bec5
+K,mitv://generationnexxxt.com:19806/a7b60259e9e3451bab5fd0905b4862a6
 
 极限电影,mitv://54.39.16.152:9906/6260e061000b04ae172397987c1e3b34.ts
 松视1台,mitv://54.39.16.152:9906/6260dfaa0008dccc1720cc33ffe57894.ts
