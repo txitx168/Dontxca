@@ -226,545 +226,546 @@ Anal,p5p://crfccs.kingh888.com:16666/60ab6e6a0006200a0f7705d1ab2c12fd
 HOTH,p5p://crfccs.kingh888.com:16666/60ab27ac000dd0ce0e62b1998dc28571
 
 EA1channel_0529,#genre#
---高清频道--,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8
-Cum 4K,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6190/index.m3u8
-TINY 4K,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/index.m3u8
-VERAPORN 4K,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12137/index.m3u8
-VERAPORN 4K 2,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12138/index.m3u8
-Double Rabbit,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6260/index.m3u8
-mydirtyhobby,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12183/index.m3u8
-ExxxOtica,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2397/index.m3u8
-HotWifexxx,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12187/index.m3u8
-Tushy1,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6261/index.m3u8
-Tushy2,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12188/index.m3u8
-TushyRaw,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6262/index.m3u8
-Blacked1,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6178/index.m3u8
-Blacked2,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12190/index.m3u8
-BlackedRaw,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12191/index.m3u8
-Transerotica,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12193/index.m3u8
-Planet-randy,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12204/index.m3u8
-Redlight,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/242/index.m3u8
-Hustler,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/244/index.m3u8
-Dorcel,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/245/index.m3u8
-Dorcel,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/878/index.m3u8
-Dorcelclub,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6197/index.m3u8
-Penthouse Gold,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/5011/index.m3u8
-Penthouse Quickies,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/5013/index.m3u8
-Penthouse Quickies,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/5012/index.m3u8
-Penthouse Passion,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/5010/index.m3u8
-xxl,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/5009/index.m3u8
-Erox,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/5015/index.m3u8
-AdulTtime,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6166/index.m3u8
-Sexart1,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6165/index.m3u8
-Sexart2,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6253/index.m3u8
-21Sextury,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6164/index.m3u8
-Analized,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6168/index.m3u8
-Pinko Tgirls,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6170/index.m3u8
-BabesTV-1,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6171/index.m3u8
-BabesTV-2,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6172/index.m3u8
-BlacksOnBoys,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6169/index.m3u8
-Bang Bros,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6173/index.m3u8
-Bang Bros,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6235/index.m3u8
-Bang!Rammed,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6174/index.m3u8
-Brazzers-1,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6181/index.m3u8
-Brazzers-2,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6182/index.m3u8
-Brazzers-3,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6192/index.m3u8
-Brazzers-4,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6204/index.m3u8
-Brazzers-5,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6203/index.m3u8
-Brazzers-6,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6222/index.m3u8
-Cherry Pimps,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6185/index.m3u8
-ClubSweeThearts,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6186/index.m3u8
-XXxxx,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6200/index.m3u8
-XXXxxx,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6184/index.m3u8
-CumLouder,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6189/index.m3u8
-Daughterswap,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6191/index.m3u8
-DigiTaldesire,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6195/index.m3u8
-DDF Network-1,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6193/index.m3u8
-DDF Network-2,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6194/index.m3u8
-DDF Network-3,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6217/index.m3u8
-DP Digital Playground-1,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6196/index.m3u8
-DP Digital Playground-2,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6210/index.m3u8
-Evilangel,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6199/index.m3u8
-Extasy,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6201/index.m3u8
-Faketaxi,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6202/index.m3u8
-Trueanal,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6206/index.m3u8
-GloryHoleSecrets,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6205/index.m3u8
-nympho,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6208/index.m3u8
-Mylf,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6216/index.m3u8
-Family,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6209/index.m3u8
-Hitzefrei!,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6220/index.m3u8
-Holed,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6221/index.m3u8
-JapanHdv,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6225/index.m3u8
-Littleasians,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6230/index.m3u8
-Hot Guys Fuck,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6229/index.m3u8
-lesbea,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6227/index.m3u8
-Redxxx,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6232/index.m3u8
-Redxxx,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6281/index.m3u8
-Metart,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6233/index.m3u8
-MylfXJoybear,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6236/index.m3u8
-Alsscan,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6239/index.m3u8
-Nubiles,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6238/index.m3u8
-Naughty America,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6237/index.m3u8
-PlayBoy,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6242/index.m3u8
-Private,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6245/index.m3u8
-Public Agent,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6246/index.m3u8
-Sin Ematica,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6255/index.m3u8
-atrans angel,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6259/index.m3u8
-Vixen,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6265/index.m3u8
-VividTV,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6264/index.m3u8
-Visit-X,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6263/index.m3u8
-Wicked,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6268/index.m3u8
-WhitEboxxx,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6267/index.m3u8
-Balkan Erotic,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6270/index.m3u8
-Erox,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6296/index.m3u8
-XvMax,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6286/index.m3u8
-XvMix,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6287/index.m3u8
-DorcelTv,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12131/index.m3u8
-Dorcelxxx,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12132/index.m3u8
-VeraPorn1,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12141/index.m3u8
-VeraPorn2,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12142/index.m3u8
-Alba xxx-1,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12105/index.m3u8
-Alba xxx-2,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12107/index.m3u8
-Alba xxx-3,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12109/index.m3u8
-Alba xxx-4,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12106/index.m3u8
-Alba xxx-4,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12110/index.m3u8
-Alba xxx-5,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12108/index.m3u8
-Realitykings-1,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6247/index.m3u8
-Realitykings-2,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6248/index.m3u8
-Realitykings-3,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6249/index.m3u8
-Realitykings-4,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6266/index.m3u8
-SL-HOT 1,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12161/index.m3u8
-SL-HOT 2,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12162/index.m3u8
-SL-HOT 3,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12163/index.m3u8
-SL-HOT 4,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12164/index.m3u8
-SL-HOT 5,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12165/index.m3u8
-SL-HOT 6,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12166/index.m3u8
-SL-HOT 7,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12167/index.m3u8
-SL-HOT 8,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12168/index.m3u8
-SL-HOT 9,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12169/index.m3u8
-SL-Erotic,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12160/index.m3u8
-AdultIPTV-01,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6167/index.m3u8
-AdultIPTV-02,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6175/index.m3u8
-AdultIPTV-03,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6180/index.m3u8
-AdultIPTV-04,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6177/index.m3u8
-AdultIPTV-05,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6176/index.m3u8
-AdultIPTV-06,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6179/index.m3u8
-AdultIPTV-07,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6183/index.m3u8
-AdultIPTV-08,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6187/index.m3u8
-AdultIPTV-09,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6188/index.m3u8
-AdultIPTV-10,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6214/index.m3u8
-AdultIPTV-11,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6215/index.m3u8
-AdultIPTV-12,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6213/index.m3u8
-AdultIPTV-13,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6219/index.m3u8
-AdultIPTV-14,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6224/index.m3u8
-AdultIPTV-15,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6226/index.m3u8
-AdultIPTV-16,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6243/index.m3u8
-AdultIPTV-17,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6228/index.m3u8
-AdultIPTV-18,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6231/index.m3u8
-AdultIPTV-19,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6234/index.m3u8
-AdultIPTV-20,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6244/index.m3u8
-AdultIPTV-21,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6250/index.m3u8
-AdultIPTV-22,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6256/index.m3u8
-AdultIPTV-23,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6257/index.m3u8
-AdultIPTV-24,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6251/index.m3u8
-AdultIPTV-25,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12171/index.m3u8
-AdultIPTV-26,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12172/index.m3u8
-AdultIPTV-27,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12174/index.m3u8
-AdultIPTV-28,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12173/index.m3u8
-AdultIPTV-29,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12175/index.m3u8
-AdultIPTV-30,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12176/index.m3u8
-AdultIPTV-31,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12184/index.m3u8
-AdultIPTV-32,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12178/index.m3u8
-AdultIPTV-33,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12177/index.m3u8
-AdultIPTV-34,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12180/index.m3u8
-AdultIPTV-35,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12192/index.m3u8
-欧美hd-01,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6207/index.m3u8
-欧美hd-02,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6254/index.m3u8
-欧美hd-03,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6269/index.m3u8
-欧美hd-04,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12154/index.m3u8
-欧美hd-05,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12155/index.m3u8
-欧美hd-06,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12156/index.m3u8
-欧美hd-07,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12157/index.m3u8
-欧美hd-08,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12181/index.m3u8
-欧美hd-09,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12205/index.m3u8
+--高清频道--,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78
+Cum 4K,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6190/index.m3u8
+TINY 4K,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/index.m3u8
+VERAPORN 4K,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/12137/index.m3u8
+VERAPORN 4K 2,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/12138/index.m3u8
+Double Rabbit,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6260/index.m3u8
+mydirtyhobby,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/12183/index.m3u8
+ExxxOtica,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/2397/index.m3u8
+HotWifexxx,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/12187/index.m3u8
+Tushy1,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6261/index.m3u8
+Tushy2,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/12188/index.m3u8
+TushyRaw,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6262/index.m3u8
+Blacked1,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6178/index.m3u8
+Blacked2,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/12190/index.m3u8
+BlackedRaw,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/12191/index.m3u8
+Transerotica,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/12193/index.m3u8
+Planet-randy,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/12204/index.m3u8
+Redlight,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/242/index.m3u8
+Hustler,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/244/index.m3u8
+Dorcel,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/245/index.m3u8
+Dorcel,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/878/index.m3u8
+Dorcelclub,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6197/index.m3u8
+Penthouse Gold,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/5011/index.m3u8
+Penthouse Quickies,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/5013/index.m3u8
+Penthouse Quickies,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/5012/index.m3u8
+Penthouse Passion,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/5010/index.m3u8
+xxl,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/5009/index.m3u8
+Erox,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/5015/index.m3u8
+AdulTtime,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6166/index.m3u8
+Sexart1,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6165/index.m3u8
+Sexart2,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6253/index.m3u8
+21Sextury,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6164/index.m3u8
+Analized,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6168/index.m3u8
+Pinko Tgirls,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6170/index.m3u8
+BabesTV-1,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6171/index.m3u8
+BabesTV-2,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6172/index.m3u8
+BlacksOnBoys,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6169/index.m3u8
+Bang Bros,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6173/index.m3u8
+Bang Bros,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6235/index.m3u8
+Bang!Rammed,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6174/index.m3u8
+Brazzers-1,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6181/index.m3u8
+Brazzers-2,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6182/index.m3u8
+Brazzers-3,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6192/index.m3u8
+Brazzers-4,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6204/index.m3u8
+Brazzers-5,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6203/index.m3u8
+Brazzers-6,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6222/index.m3u8
+Cherry Pimps,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6185/index.m3u8
+ClubSweeThearts,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6186/index.m3u8
+XXxxx,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6200/index.m3u8
+XXXxxx,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6184/index.m3u8
+CumLouder,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6189/index.m3u8
+Daughterswap,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6191/index.m3u8
+DigiTaldesire,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6195/index.m3u8
+DDF Network-1,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6193/index.m3u8
+DDF Network-2,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6194/index.m3u8
+DDF Network-3,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6217/index.m3u8
+DP Digital Playground-1,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6196/index.m3u8
+DP Digital Playground-2,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6210/index.m3u8
+Evilangel,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6199/index.m3u8
+Extasy,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6201/index.m3u8
+Faketaxi,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6202/index.m3u8
+Trueanal,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6206/index.m3u8
+GloryHoleSecrets,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6205/index.m3u8
+nympho,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6208/index.m3u8
+Mylf,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6216/index.m3u8
+Family,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6209/index.m3u8
+Hitzefrei!,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6220/index.m3u8
+Holed,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6221/index.m3u8
+JapanHdv,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6225/index.m3u8
+Littleasians,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6230/index.m3u8
+Hot Guys Fuck,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6229/index.m3u8
+lesbea,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6227/index.m3u8
+Redxxx,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6232/index.m3u8
+Redxxx,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6281/index.m3u8
+Metart,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6233/index.m3u8
+MylfXJoybear,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6236/index.m3u8
+Alsscan,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6239/index.m3u8
+Nubiles,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6238/index.m3u8
+Naughty America,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6237/index.m3u8
+PlayBoy,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6242/index.m3u8
+Private,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6245/index.m3u8
+Public Agent,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6246/index.m3u8
+Sin Ematica,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6255/index.m3u8
+atrans angel,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6259/index.m3u8
+Vixen,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6265/index.m3u8
+VividTV,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6264/index.m3u8
+Visit-X,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6263/index.m3u8
+Wicked,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6268/index.m3u8
+WhitEboxxx,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6267/index.m3u8
+Balkan Erotic,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6270/index.m3u8
+Erox,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6296/index.m3u8
+XvMax,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6286/index.m3u8
+XvMix,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6287/index.m3u8
+DorcelTv,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/12131/index.m3u8
+Dorcelxxx,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/12132/index.m3u8
+VeraPorn1,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/12141/index.m3u8
+VeraPorn2,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/12142/index.m3u8
+Alba xxx-1,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/12105/index.m3u8
+Alba xxx-2,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/12107/index.m3u8
+Alba xxx-3,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/12109/index.m3u8
+Alba xxx-4,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/12106/index.m3u8
+Alba xxx-4,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/12110/index.m3u8
+Alba xxx-5,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/12108/index.m3u8
+Realitykings-1,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6247/index.m3u8
+Realitykings-2,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6248/index.m3u8
+Realitykings-3,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6249/index.m3u8
+Realitykings-4,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6266/index.m3u8
+SL-HOT 1,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/12161/index.m3u8
+SL-HOT 2,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/12162/index.m3u8
+SL-HOT 3,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/12163/index.m3u8
+SL-HOT 4,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/12164/index.m3u8
+SL-HOT 5,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/12165/index.m3u8
+SL-HOT 6,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/12166/index.m3u8
+SL-HOT 7,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/12167/index.m3u8
+SL-HOT 8,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/12168/index.m3u8
+SL-HOT 9,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/12169/index.m3u8
+SL-Erotic,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/12160/index.m3u8
+AdultIPTV-01,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6167/index.m3u8
+AdultIPTV-02,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6175/index.m3u8
+AdultIPTV-03,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6180/index.m3u8
+AdultIPTV-04,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6177/index.m3u8
+AdultIPTV-05,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6176/index.m3u8
+AdultIPTV-06,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6179/index.m3u8
+AdultIPTV-07,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6183/index.m3u8
+AdultIPTV-08,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6187/index.m3u8
+AdultIPTV-09,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6188/index.m3u8
+AdultIPTV-10,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6214/index.m3u8
+AdultIPTV-11,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6215/index.m3u8
+AdultIPTV-12,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6213/index.m3u8
+AdultIPTV-13,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6219/index.m3u8
+AdultIPTV-14,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6224/index.m3u8
+AdultIPTV-15,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6226/index.m3u8
+AdultIPTV-16,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6243/index.m3u8
+AdultIPTV-17,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6228/index.m3u8
+AdultIPTV-18,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6231/index.m3u8
+AdultIPTV-19,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6234/index.m3u8
+AdultIPTV-20,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6244/index.m3u8
+AdultIPTV-21,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6250/index.m3u8
+AdultIPTV-22,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6256/index.m3u8
+AdultIPTV-23,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6257/index.m3u8
+AdultIPTV-24,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6251/index.m3u8
+AdultIPTV-25,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/12171/index.m3u8
+AdultIPTV-26,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/12172/index.m3u8
+AdultIPTV-27,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/12174/index.m3u8
+AdultIPTV-28,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/12173/index.m3u8
+AdultIPTV-29,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/12175/index.m3u8
+AdultIPTV-30,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/12176/index.m3u8
+AdultIPTV-31,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/12184/index.m3u8
+AdultIPTV-32,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/12178/index.m3u8
+AdultIPTV-33,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/12177/index.m3u8
+AdultIPTV-34,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/12180/index.m3u8
+AdultIPTV-35,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/12192/index.m3u8
+欧美hd-01,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6207/index.m3u8
+欧美hd-02,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6254/index.m3u8
+欧美hd-03,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6269/index.m3u8
+欧美hd-04,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/12154/index.m3u8
+欧美hd-05,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/12155/index.m3u8
+欧美hd-06,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/12156/index.m3u8
+欧美hd-07,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/12157/index.m3u8
+欧美hd-08,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/12181/index.m3u8
+欧美hd-09,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/12205/index.m3u8
 --标清频道,--
-Lesbian,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/147/index.m3u8
-defloration,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6211/index.m3u8
-Blue Hustler,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/1064/index.m3u8
-Dusk,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6198/index.m3u8
-BarelyLegal,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/871/index.m3u8
-XYplus-1,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12116/index.m3u8
-XYplus-2,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12117/index.m3u8
-XYplus-3,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12118/index.m3u8
-XYplus-4,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12119/index.m3u8
-U Bang-1,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12114/index.m3u8
-U Bang-2,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12128/index.m3u8
-U Bang-3,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12170/index.m3u8
-U Bang-4,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12152/index.m3u8
-Erotic,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6289/index.m3u8
-Erotic,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12146/index.m3u8
-Erotic2,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6290/index.m3u8
-Erotic2,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12147/index.m3u8
-Erotic3,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6291/index.m3u8
-Erotic4,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6292/index.m3u8
-Erotic5,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12148/index.m3u8
-Erotic5,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6240/index.m3u8
-Erotic6,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6241/index.m3u8
-Erotic6,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6293/index.m3u8
-Erotic6,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12149/index.m3u8
-Erotic6,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12151/index.m3u8
-Erotic7,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6294/index.m3u8
-Erotic8,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6295/index.m3u8
-Erotic8,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12153/index.m3u8
-PlayBoy1,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12135/index.m3u8
-PlayBoy1,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/527/index.m3u8
-PlayBoy2,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6280/index.m3u8
-欧美-01,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6252/index.m3u8
-欧美-02,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12136/index.m3u8
-欧美-03,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12158/index.m3u8
-欧美-04,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6276/index.m3u8
-欧美-05,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6275/index.m3u8
-欧美-05,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6282/index.m3u8
-欧美-06,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6285/index.m3u8
-欧美-07,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6284/index.m3u8
-欧美-08,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6297/index.m3u8
-欧美-09,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6298/index.m3u8
-欧美-10,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12189/index.m3u8
-欧美-11,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12194/index.m3u8
-欧美-12,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12112/index.m3u8
-欧美-13,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12113/index.m3u8
-欧美-14,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12111/index.m3u8
-欧美-15,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12120/index.m3u8
-欧美-16,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12121/index.m3u8
-欧美-17,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12123/index.m3u8
-欧美-18,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12122/index.m3u8
-欧美-19,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12125/index.m3u8
-欧美-20,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12124/index.m3u8
-欧美-21,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12130/index.m3u8
-欧美-22,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12129/index.m3u8
-欧美-23,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/874/index.m3u8
-欧美-24,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/876/index.m3u8
-欧美-25,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12133/index.m3u8
-Brazzers TV Europe,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/910/index.m3u8
-Шалун,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/922/index.m3u8
-Candy,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/923/index.m3u8
-Hustler HD orig,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/9065/index.m3u8
-Penthouse Passion HD,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/1073/index.m3u8
-Нюарт TV,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2057/index.m3u8
-Sexto Senso,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/875/index.m3u8
-FrenchLover,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2160/index.m3u8
-O-la-la,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2161/index.m3u8
-Extasy 4K,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/5014/index.m3u8
-Private TV,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/243/index.m3u8
-Русская ночь orig,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/9344/index.m3u8
-Hard X,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6218/index.m3u8
-Hot Guys Fuck,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6223/index.m3u8
-Bangerz,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6271/index.m3u8
-Emanuelle HD,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6272/index.m3u8
-Extreme,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6273/index.m3u8
-Fast Boyz,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6274/index.m3u8
-Hot Pleasure,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6277/index.m3u8
-Lesbian Affair,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6278/index.m3u8
-Oldtimer,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6279/index.m3u8
-Taboo,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6283/index.m3u8
-XY Plus HD,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6288/index.m3u8
-Dorcel HD orig,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/9064/index.m3u8
-Redlight HD orig,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/9066/index.m3u8
-Passion XXX orig,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/9067/index.m3u8
-O-La-La orig,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/9068/index.m3u8
-XXL orig,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/9345/index.m3u8
-EXXXOTICA HD orig,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/9346/index.m3u8
-EXTASY HD,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/11051/index.m3u8
-KinoXXX,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/11052/index.m3u8
-ОХ-АХ HD,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/11068/index.m3u8
-VF Cartoon 18+,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/11117/index.m3u8
-FREE X TV,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12134/index.m3u8
-VERAPORN TEENS,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12139/index.m3u8
-VERAPORN TEENS 2,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12140/index.m3u8
-VERAPORN ANAL,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12143/index.m3u8
-VERAPORN FEET,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12144/index.m3u8
-VERAPORN BIG TITS,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12145/index.m3u8
-PINK EROTICA 5,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12150/index.m3u8
-XXX Love\'s Berry HD,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/14140/index.m3u8
-YOSSO TV SEXY,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/14176/index.m3u8
-SKY HIGH ADULT HD,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/15166/index.m3u8
-Kaloopy hd tv,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/16018/index.m3u8
-LIBERTY EROTIKA HD,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/16069/index.m3u8
-Кино 18+ HD,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/18075/index.m3u8
-Кино 18+ International,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/18076/index.m3u8
-Kinoshka Adult HD,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/18060/index.m3u8
-Eromania 4K,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/10049/index.m3u8
-DuckTV HD,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/18138/index.m3u8
+Lesbian,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/147/index.m3u8
+defloration,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6211/index.m3u8
+Blue Hustler,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/1064/index.m3u8
+Dusk,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6198/index.m3u8
+BarelyLegal,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/871/index.m3u8
+XYplus-1,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/12116/index.m3u8
+XYplus-2,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/12117/index.m3u8
+XYplus-3,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/12118/index.m3u8
+XYplus-4,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/12119/index.m3u8
+U Bang-1,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/12114/index.m3u8
+U Bang-2,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/12128/index.m3u8
+U Bang-3,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/12170/index.m3u8
+U Bang-4,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/12152/index.m3u8
+Erotic,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6289/index.m3u8
+Erotic,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/12146/index.m3u8
+Erotic2,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6290/index.m3u8
+Erotic2,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/12147/index.m3u8
+Erotic3,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6291/index.m3u8
+Erotic4,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6292/index.m3u8
+Erotic5,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/12148/index.m3u8
+Erotic5,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6240/index.m3u8
+Erotic6,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6241/index.m3u8
+Erotic6,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6293/index.m3u8
+Erotic6,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/12149/index.m3u8
+Erotic6,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/12151/index.m3u8
+Erotic7,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6294/index.m3u8
+Erotic8,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6295/index.m3u8
+Erotic8,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/12153/index.m3u8
+PlayBoy1,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/12135/index.m3u8
+PlayBoy1,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/527/index.m3u8
+PlayBoy2,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6280/index.m3u8
+欧美-01,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6252/index.m3u8
+欧美-02,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/12136/index.m3u8
+欧美-03,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/12158/index.m3u8
+欧美-04,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6276/index.m3u8
+欧美-05,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6275/index.m3u8
+欧美-05,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6282/index.m3u8
+欧美-06,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6285/index.m3u8
+欧美-07,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6284/index.m3u8
+欧美-08,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6297/index.m3u8
+欧美-09,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6298/index.m3u8
+欧美-10,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/12189/index.m3u8
+欧美-11,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/12194/index.m3u8
+欧美-12,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/12112/index.m3u8
+欧美-13,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/12113/index.m3u8
+欧美-14,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/12111/index.m3u8
+欧美-15,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/12120/index.m3u8
+欧美-16,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/12121/index.m3u8
+欧美-17,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/12123/index.m3u8
+欧美-18,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/12122/index.m3u8
+欧美-19,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/12125/index.m3u8
+欧美-20,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/12124/index.m3u8
+欧美-21,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/12130/index.m3u8
+欧美-22,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/12129/index.m3u8
+欧美-23,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/874/index.m3u8
+欧美-24,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/876/index.m3u8
+欧美-25,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/12133/index.m3u8
+Brazzers TV Europe,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/910/index.m3u8
+Шалун,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/922/index.m3u8
+Candy,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/923/index.m3u8
+Hustler HD orig,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/9065/index.m3u8
+Penthouse Passion HD,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/1073/index.m3u8
+Нюарт TV,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/2057/index.m3u8
+Sexto Senso,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/875/index.m3u8
+FrenchLover,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/2160/index.m3u8
+O-la-la,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/2161/index.m3u8
+Extasy 4K,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/5014/index.m3u8
+Private TV,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/243/index.m3u8
+Русская ночь orig,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/9344/index.m3u8
+Hard X,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6218/index.m3u8
+Hot Guys Fuck,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6223/index.m3u8
+Bangerz,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6271/index.m3u8
+Emanuelle HD,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6272/index.m3u8
+Extreme,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6273/index.m3u8
+Fast Boyz,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6274/index.m3u8
+Hot Pleasure,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6277/index.m3u8
+Lesbian Affair,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6278/index.m3u8
+Oldtimer,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6279/index.m3u8
+Taboo,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6283/index.m3u8
+XY Plus HD,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/6288/index.m3u8
+Dorcel HD orig,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/9064/index.m3u8
+Redlight HD orig,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/9066/index.m3u8
+Passion XXX orig,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/9067/index.m3u8
+O-La-La orig,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/9068/index.m3u8
+XXL orig,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/9345/index.m3u8
+EXXXOTICA HD orig,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/9346/index.m3u8
+EXTASY HD,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/11051/index.m3u8
+KinoXXX,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/11052/index.m3u8
+ОХ-АХ HD,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/11068/index.m3u8
+VF Cartoon 18+,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/11117/index.m3u8
+FREE X TV,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/12134/index.m3u8
+VERAPORN TEENS,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/12139/index.m3u8
+VERAPORN TEENS 2,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/12140/index.m3u8
+VERAPORN ANAL,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/12143/index.m3u8
+VERAPORN FEET,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/12144/index.m3u8
+VERAPORN BIG TITS,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/12145/index.m3u8
+PINK EROTICA 5,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/12150/index.m3u8
+XXX Love\'s Berry HD,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/14140/index.m3u8
+YOSSO TV SEXY,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/14176/index.m3u8
+SKY HIGH ADULT HD,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/15166/index.m3u8
+Kaloopy hd tv,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/16018/index.m3u8
+LIBERTY EROTIKA HD,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/16069/index.m3u8
+Кино 18+ HD,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/18075/index.m3u8
+Кино 18+ International,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/18076/index.m3u8
+Kinoshka Adult HD,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/18060/index.m3u8
+Eromania 4K,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/10049/index.m3u8
+DuckTV HD,http://55508249.ottrast.com/iptv/29SQ3W9NQ2FL78/18138/index.m3u8
 
---高清频道--,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW
-Cum 4K,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6190/index.m3u8
-TINY 4K,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6258/index.m3u8
-VERAPORN 4K,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12137/index.m3u8
-VERAPORN 4K 2,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12138/index.m3u8
-Double Rabbit,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6260/index.m3u8
-mydirtyhobby,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12183/index.m3u8
-ExxxOtica,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/2397/index.m3u8
-HotWifexxx,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12187/index.m3u8
-Tushy1,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6261/index.m3u8
-Tushy2,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12188/index.m3u8
-TushyRaw,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6262/index.m3u8
-Blacked1,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6178/index.m3u8
-Blacked2,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12190/index.m3u8
-BlackedRaw,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12191/index.m3u8
-Transerotica,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12193/index.m3u8
-Planet-randy,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12204/index.m3u8
-Redlight,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/242/index.m3u8
-Hustler,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/244/index.m3u8
-Dorcel,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/245/index.m3u8
-Dorcel,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/878/index.m3u8
-Dorcelclub,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6197/index.m3u8
-Penthouse Gold,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/5011/index.m3u8
-Penthouse Quickies,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/5013/index.m3u8
-Penthouse Quickies,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/5012/index.m3u8
-Penthouse Passion,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/5010/index.m3u8
-xxl,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/5009/index.m3u8
-Erox,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/5015/index.m3u8
-AdulTtime,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6166/index.m3u8
-Sexart1,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6165/index.m3u8
-Sexart2,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6253/index.m3u8
-21Sextury,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6164/index.m3u8
-Analized,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6168/index.m3u8
-Pinko Tgirls,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6170/index.m3u8
-BabesTV-1,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6171/index.m3u8
-BabesTV-2,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6172/index.m3u8
-BlacksOnBoys,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6169/index.m3u8
-Bang Bros,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6173/index.m3u8
-Bang Bros,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6235/index.m3u8
-Bang!Rammed,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6174/index.m3u8
-Brazzers-1,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6181/index.m3u8
-Brazzers-2,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6182/index.m3u8
-Brazzers-3,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6192/index.m3u8
-Brazzers-4,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6204/index.m3u8
-Brazzers-5,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6203/index.m3u8
-Brazzers-6,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6222/index.m3u8
-Cherry Pimps,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6185/index.m3u8
-ClubSweeThearts,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6186/index.m3u8
-XXxxx,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6200/index.m3u8
-XXXxxx,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6184/index.m3u8
-CumLouder,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6189/index.m3u8
-Daughterswap,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6191/index.m3u8
-DigiTaldesire,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6195/index.m3u8
-DDF Network-1,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6193/index.m3u8
-DDF Network-2,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6194/index.m3u8
-DDF Network-3,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6217/index.m3u8
-DP Digital Playground-1,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6196/index.m3u8
-DP Digital Playground-2,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6210/index.m3u8
-Evilangel,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6199/index.m3u8
-Extasy,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6201/index.m3u8
-Faketaxi,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6202/index.m3u8
-Trueanal,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6206/index.m3u8
-GloryHoleSecrets,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6205/index.m3u8
-nympho,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6208/index.m3u8
-Mylf,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6216/index.m3u8
-Family,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6209/index.m3u8
-Hitzefrei!,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6220/index.m3u8
-Holed,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6221/index.m3u8
-JapanHdv,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6225/index.m3u8
-Littleasians,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6230/index.m3u8
-Hot Guys Fuck,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6229/index.m3u8
-lesbea,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6227/index.m3u8
-Redxxx,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6232/index.m3u8
-Redxxx,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6281/index.m3u8
-Metart,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6233/index.m3u8
-MylfXJoybear,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6236/index.m3u8
-Alsscan,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6239/index.m3u8
-Nubiles,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6238/index.m3u8
-Naughty America,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6237/index.m3u8
-PlayBoy,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6242/index.m3u8
-Private,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6245/index.m3u8
-Public Agent,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6246/index.m3u8
-Sin Ematica,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6255/index.m3u8
-atrans angel,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6259/index.m3u8
-Vixen,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6265/index.m3u8
-VividTV,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6264/index.m3u8
-Visit-X,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6263/index.m3u8
-Wicked,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6268/index.m3u8
-WhitEboxxx,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6267/index.m3u8
-Balkan Erotic,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6270/index.m3u8
-Erox,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6296/index.m3u8
-XvMax,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6286/index.m3u8
-XvMix,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6287/index.m3u8
-DorcelTv,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12131/index.m3u8
-Dorcelxxx,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12132/index.m3u8
-VeraPorn1,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12141/index.m3u8
-VeraPorn2,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12142/index.m3u8
-Alba xxx-1,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12105/index.m3u8
-Alba xxx-2,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12107/index.m3u8
-Alba xxx-3,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12109/index.m3u8
-Alba xxx-4,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12106/index.m3u8
-Alba xxx-4,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12110/index.m3u8
-Alba xxx-5,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12108/index.m3u8
-Realitykings-1,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6247/index.m3u8
-Realitykings-2,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6248/index.m3u8
-Realitykings-3,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6249/index.m3u8
-Realitykings-4,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6266/index.m3u8
-SL-HOT 1,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12161/index.m3u8
-SL-HOT 2,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12162/index.m3u8
-SL-HOT 3,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12163/index.m3u8
-SL-HOT 4,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12164/index.m3u8
-SL-HOT 5,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12165/index.m3u8
-SL-HOT 6,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12166/index.m3u8
-SL-HOT 7,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12167/index.m3u8
-SL-HOT 8,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12168/index.m3u8
-SL-HOT 9,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12169/index.m3u8
-SL-Erotic,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12160/index.m3u8
-AdultIPTV-01,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6167/index.m3u8
-AdultIPTV-02,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6175/index.m3u8
-AdultIPTV-03,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6180/index.m3u8
-AdultIPTV-04,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6177/index.m3u8
-AdultIPTV-05,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6176/index.m3u8
-AdultIPTV-06,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6179/index.m3u8
-AdultIPTV-07,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6183/index.m3u8
-AdultIPTV-08,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6187/index.m3u8
-AdultIPTV-09,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6188/index.m3u8
-AdultIPTV-10,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6214/index.m3u8
-AdultIPTV-11,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6215/index.m3u8
-AdultIPTV-12,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6213/index.m3u8
-AdultIPTV-13,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6219/index.m3u8
-AdultIPTV-14,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6224/index.m3u8
-AdultIPTV-15,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6226/index.m3u8
-AdultIPTV-16,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6243/index.m3u8
-AdultIPTV-17,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6228/index.m3u8
-AdultIPTV-18,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6231/index.m3u8
-AdultIPTV-19,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6234/index.m3u8
-AdultIPTV-20,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6244/index.m3u8
-AdultIPTV-21,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6250/index.m3u8
-AdultIPTV-22,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6256/index.m3u8
-AdultIPTV-23,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6257/index.m3u8
-AdultIPTV-24,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6251/index.m3u8
-AdultIPTV-25,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12171/index.m3u8
-AdultIPTV-26,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12172/index.m3u8
-AdultIPTV-27,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12174/index.m3u8
-AdultIPTV-28,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12173/index.m3u8
-AdultIPTV-29,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12175/index.m3u8
-AdultIPTV-30,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12176/index.m3u8
-AdultIPTV-31,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12184/index.m3u8
-AdultIPTV-32,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12178/index.m3u8
-AdultIPTV-33,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12177/index.m3u8
-AdultIPTV-34,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12180/index.m3u8
-AdultIPTV-35,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12192/index.m3u8
-欧美hd-01,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6207/index.m3u8
-欧美hd-02,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6254/index.m3u8
-欧美hd-03,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6269/index.m3u8
-欧美hd-04,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12154/index.m3u8
-欧美hd-05,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12155/index.m3u8
-欧美hd-06,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12156/index.m3u8
-欧美hd-07,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12157/index.m3u8
-欧美hd-08,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12181/index.m3u8
-欧美hd-09,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12205/index.m3u8
+--高清频道--,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R
+Cum 4K,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6190/index.m3u8
+TINY 4K,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6258/index.m3u8
+VERAPORN 4K,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/12137/index.m3u8
+VERAPORN 4K 2,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/12138/index.m3u8
+Double Rabbit,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6260/index.m3u8
+mydirtyhobby,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/12183/index.m3u8
+ExxxOtica,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/2397/index.m3u8
+HotWifexxx,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/12187/index.m3u8
+Tushy1,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6261/index.m3u8
+Tushy2,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/12188/index.m3u8
+TushyRaw,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6262/index.m3u8
+Blacked1,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6178/index.m3u8
+Blacked2,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/12190/index.m3u8
+BlackedRaw,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/12191/index.m3u8
+Transerotica,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/12193/index.m3u8
+Planet-randy,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/12204/index.m3u8
+Redlight,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/242/index.m3u8
+Hustler,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/244/index.m3u8
+Dorcel,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/245/index.m3u8
+Dorcel,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/878/index.m3u8
+Dorcelclub,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6197/index.m3u8
+Penthouse Gold,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/5011/index.m3u8
+Penthouse Quickies,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/5013/index.m3u8
+Penthouse Quickies,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/5012/index.m3u8
+Penthouse Passion,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/5010/index.m3u8
+xxl,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/5009/index.m3u8
+Erox,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/5015/index.m3u8
+AdulTtime,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6166/index.m3u8
+Sexart1,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6165/index.m3u8
+Sexart2,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6253/index.m3u8
+21Sextury,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6164/index.m3u8
+Analized,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6168/index.m3u8
+Pinko Tgirls,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6170/index.m3u8
+BabesTV-1,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6171/index.m3u8
+BabesTV-2,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6172/index.m3u8
+BlacksOnBoys,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6169/index.m3u8
+Bang Bros,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6173/index.m3u8
+Bang Bros,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6235/index.m3u8
+Bang!Rammed,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6174/index.m3u8
+Brazzers-1,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6181/index.m3u8
+Brazzers-2,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6182/index.m3u8
+Brazzers-3,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6192/index.m3u8
+Brazzers-4,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6204/index.m3u8
+Brazzers-5,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6203/index.m3u8
+Brazzers-6,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6222/index.m3u8
+Cherry Pimps,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6185/index.m3u8
+ClubSweeThearts,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6186/index.m3u8
+XXxxx,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6200/index.m3u8
+XXXxxx,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6184/index.m3u8
+CumLouder,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6189/index.m3u8
+Daughterswap,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6191/index.m3u8
+DigiTaldesire,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6195/index.m3u8
+DDF Network-1,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6193/index.m3u8
+DDF Network-2,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6194/index.m3u8
+DDF Network-3,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6217/index.m3u8
+DP Digital Playground-1,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6196/index.m3u8
+DP Digital Playground-2,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6210/index.m3u8
+Evilangel,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6199/index.m3u8
+Extasy,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6201/index.m3u8
+Faketaxi,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6202/index.m3u8
+Trueanal,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6206/index.m3u8
+GloryHoleSecrets,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6205/index.m3u8
+nympho,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6208/index.m3u8
+Mylf,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6216/index.m3u8
+Family,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6209/index.m3u8
+Hitzefrei!,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6220/index.m3u8
+Holed,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6221/index.m3u8
+JapanHdv,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6225/index.m3u8
+Littleasians,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6230/index.m3u8
+Hot Guys Fuck,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6229/index.m3u8
+lesbea,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6227/index.m3u8
+Redxxx,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6232/index.m3u8
+Redxxx,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6281/index.m3u8
+Metart,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6233/index.m3u8
+MylfXJoybear,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6236/index.m3u8
+Alsscan,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6239/index.m3u8
+Nubiles,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6238/index.m3u8
+Naughty America,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6237/index.m3u8
+PlayBoy,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6242/index.m3u8
+Private,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6245/index.m3u8
+Public Agent,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6246/index.m3u8
+Sin Ematica,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6255/index.m3u8
+atrans angel,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6259/index.m3u8
+Vixen,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6265/index.m3u8
+VividTV,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6264/index.m3u8
+Visit-X,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6263/index.m3u8
+Wicked,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6268/index.m3u8
+WhitEboxxx,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6267/index.m3u8
+Balkan Erotic,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6270/index.m3u8
+Erox,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6296/index.m3u8
+XvMax,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6286/index.m3u8
+XvMix,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6287/index.m3u8
+DorcelTv,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/12131/index.m3u8
+Dorcelxxx,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/12132/index.m3u8
+VeraPorn1,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/12141/index.m3u8
+VeraPorn2,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/12142/index.m3u8
+Alba xxx-1,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/12105/index.m3u8
+Alba xxx-2,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/12107/index.m3u8
+Alba xxx-3,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/12109/index.m3u8
+Alba xxx-4,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/12106/index.m3u8
+Alba xxx-4,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/12110/index.m3u8
+Alba xxx-5,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/12108/index.m3u8
+Realitykings-1,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6247/index.m3u8
+Realitykings-2,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6248/index.m3u8
+Realitykings-3,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6249/index.m3u8
+Realitykings-4,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6266/index.m3u8
+SL-HOT 1,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/12161/index.m3u8
+SL-HOT 2,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/12162/index.m3u8
+SL-HOT 3,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/12163/index.m3u8
+SL-HOT 4,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/12164/index.m3u8
+SL-HOT 5,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/12165/index.m3u8
+SL-HOT 6,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/12166/index.m3u8
+SL-HOT 7,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/12167/index.m3u8
+SL-HOT 8,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/12168/index.m3u8
+SL-HOT 9,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/12169/index.m3u8
+SL-Erotic,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/12160/index.m3u8
+AdultIPTV-01,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6167/index.m3u8
+AdultIPTV-02,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6175/index.m3u8
+AdultIPTV-03,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6180/index.m3u8
+AdultIPTV-04,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6177/index.m3u8
+AdultIPTV-05,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6176/index.m3u8
+AdultIPTV-06,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6179/index.m3u8
+AdultIPTV-07,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6183/index.m3u8
+AdultIPTV-08,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6187/index.m3u8
+AdultIPTV-09,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6188/index.m3u8
+AdultIPTV-10,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6214/index.m3u8
+AdultIPTV-11,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6215/index.m3u8
+AdultIPTV-12,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6213/index.m3u8
+AdultIPTV-13,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6219/index.m3u8
+AdultIPTV-14,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6224/index.m3u8
+AdultIPTV-15,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6226/index.m3u8
+AdultIPTV-16,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6243/index.m3u8
+AdultIPTV-17,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6228/index.m3u8
+AdultIPTV-18,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6231/index.m3u8
+AdultIPTV-19,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6234/index.m3u8
+AdultIPTV-20,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6244/index.m3u8
+AdultIPTV-21,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6250/index.m3u8
+AdultIPTV-22,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6256/index.m3u8
+AdultIPTV-23,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6257/index.m3u8
+AdultIPTV-24,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6251/index.m3u8
+AdultIPTV-25,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/12171/index.m3u8
+AdultIPTV-26,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/12172/index.m3u8
+AdultIPTV-27,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/12174/index.m3u8
+AdultIPTV-28,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/12173/index.m3u8
+AdultIPTV-29,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/12175/index.m3u8
+AdultIPTV-30,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/12176/index.m3u8
+AdultIPTV-31,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/12184/index.m3u8
+AdultIPTV-32,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/12178/index.m3u8
+AdultIPTV-33,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/12177/index.m3u8
+AdultIPTV-34,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/12180/index.m3u8
+AdultIPTV-35,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/12192/index.m3u8
+欧美hd-01,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6207/index.m3u8
+欧美hd-02,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6254/index.m3u8
+欧美hd-03,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6269/index.m3u8
+欧美hd-04,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/12154/index.m3u8
+欧美hd-05,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/12155/index.m3u8
+欧美hd-06,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/12156/index.m3u8
+欧美hd-07,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/12157/index.m3u8
+欧美hd-08,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/12181/index.m3u8
+欧美hd-09,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/12205/index.m3u8
 --标清频道,--
-Lesbian,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/147/index.m3u8
-defloration,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6211/index.m3u8
-Blue Hustler,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/1064/index.m3u8
-Dusk,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6198/index.m3u8
-BarelyLegal,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/871/index.m3u8
-XYplus-1,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12116/index.m3u8
-XYplus-2,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12117/index.m3u8
-XYplus-3,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12118/index.m3u8
-XYplus-4,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12119/index.m3u8
-U Bang-1,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12114/index.m3u8
-U Bang-2,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12128/index.m3u8
-U Bang-3,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12170/index.m3u8
-U Bang-4,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12152/index.m3u8
-Erotic,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6289/index.m3u8
-Erotic,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12146/index.m3u8
-Erotic2,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6290/index.m3u8
-Erotic2,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12147/index.m3u8
-Erotic3,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6291/index.m3u8
-Erotic4,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6292/index.m3u8
-Erotic5,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12148/index.m3u8
-Erotic5,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6240/index.m3u8
-Erotic6,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6241/index.m3u8
-Erotic6,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6293/index.m3u8
-Erotic6,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12149/index.m3u8
-Erotic6,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12151/index.m3u8
-Erotic7,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6294/index.m3u8
-Erotic8,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6295/index.m3u8
-Erotic8,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12153/index.m3u8
-PlayBoy1,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12135/index.m3u8
-PlayBoy1,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/527/index.m3u8
-PlayBoy2,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6280/index.m3u8
-欧美-01,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6252/index.m3u8
-欧美-02,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12136/index.m3u8
-欧美-03,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12158/index.m3u8
-欧美-04,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6276/index.m3u8
-欧美-05,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6275/index.m3u8
-欧美-05,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6282/index.m3u8
-欧美-06,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6285/index.m3u8
-欧美-07,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6284/index.m3u8
-欧美-08,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6297/index.m3u8
-欧美-09,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6298/index.m3u8
-欧美-10,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12189/index.m3u8
-欧美-11,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12194/index.m3u8
-欧美-12,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12112/index.m3u8
-欧美-13,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12113/index.m3u8
-欧美-14,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12111/index.m3u8
-欧美-15,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12120/index.m3u8
-欧美-16,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12121/index.m3u8
-欧美-17,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12123/index.m3u8
-欧美-18,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12122/index.m3u8
-欧美-19,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12125/index.m3u8
-欧美-20,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12124/index.m3u8
-欧美-21,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12130/index.m3u8
-欧美-22,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12129/index.m3u8
-欧美-23,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/874/index.m3u8
-欧美-24,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/876/index.m3u8
-欧美-25,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12133/index.m3u8
-Brazzers TV Europe,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/910/index.m3u8
-Шалун,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/922/index.m3u8
-Candy,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/923/index.m3u8
-Hustler HD orig,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/9065/index.m3u8
-Penthouse Passion HD,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/1073/index.m3u8
-Нюарт TV,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/2057/index.m3u8
-Sexto Senso,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/875/index.m3u8
-FrenchLover,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/2160/index.m3u8
-O-la-la,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/2161/index.m3u8
-Extasy 4K,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/5014/index.m3u8
-Private TV,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/243/index.m3u8
-Русская ночь orig,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/9344/index.m3u8
-Hard X,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6218/index.m3u8
-Hot Guys Fuck,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6223/index.m3u8
-Bangerz,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6271/index.m3u8
-Emanuelle HD,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6272/index.m3u8
-Extreme,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6273/index.m3u8
-Fast Boyz,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6274/index.m3u8
-Hot Pleasure,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6277/index.m3u8
-Lesbian Affair,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6278/index.m3u8
-Oldtimer,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6279/index.m3u8
-Taboo,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6283/index.m3u8
-XY Plus HD,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/6288/index.m3u8
-Dorcel HD orig,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/9064/index.m3u8
-Redlight HD orig,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/9066/index.m3u8
-Passion XXX orig,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/9067/index.m3u8
-O-La-La orig,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/9068/index.m3u8
-XXL orig,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/9345/index.m3u8
-EXXXOTICA HD orig,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/9346/index.m3u8
-EXTASY HD,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/11051/index.m3u8
-KinoXXX,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/11052/index.m3u8
-ОХ-АХ HD,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/11068/index.m3u8
-VF Cartoon 18+,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/11117/index.m3u8
-FREE X TV,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12134/index.m3u8
-VERAPORN TEENS,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12139/index.m3u8
-VERAPORN TEENS 2,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12140/index.m3u8
-VERAPORN ANAL,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12143/index.m3u8
-VERAPORN FEET,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12144/index.m3u8
-VERAPORN BIG TITS,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12145/index.m3u8
-PINK EROTICA 5,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/12150/index.m3u8
-XXX Love\'s Berry HD,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/14140/index.m3u8
-YOSSO TV SEXY,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/14176/index.m3u8
-SKY HIGH ADULT HD,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/15166/index.m3u8
-Kaloopy hd tv,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/16018/index.m3u8
-LIBERTY EROTIKA HD,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/16069/index.m3u8
-Кино 18+ HD,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/18075/index.m3u8
-Кино 18+ International,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/18076/index.m3u8
-Kinoshka Adult HD,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/18060/index.m3u8
-Eromania 4K,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/10049/index.m3u8
-DuckTV HD,http://56d0d5e9.akadatel.com/iptv/7LL5FKWDQVAZBW/18138/index.m3u8
+Lesbian,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/147/index.m3u8
+defloration,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6211/index.m3u8
+Blue Hustler,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/1064/index.m3u8
+Dusk,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6198/index.m3u8
+BarelyLegal,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/871/index.m3u8
+XYplus-1,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/12116/index.m3u8
+XYplus-2,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/12117/index.m3u8
+XYplus-3,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/12118/index.m3u8
+XYplus-4,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/12119/index.m3u8
+U Bang-1,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/12114/index.m3u8
+U Bang-2,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/12128/index.m3u8
+U Bang-3,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/12170/index.m3u8
+U Bang-4,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/12152/index.m3u8
+Erotic,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6289/index.m3u8
+Erotic,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/12146/index.m3u8
+Erotic2,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6290/index.m3u8
+Erotic2,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/12147/index.m3u8
+Erotic3,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6291/index.m3u8
+Erotic4,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6292/index.m3u8
+Erotic5,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/12148/index.m3u8
+Erotic5,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6240/index.m3u8
+Erotic6,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6241/index.m3u8
+Erotic6,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6293/index.m3u8
+Erotic6,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/12149/index.m3u8
+Erotic6,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/12151/index.m3u8
+Erotic7,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6294/index.m3u8
+Erotic8,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6295/index.m3u8
+Erotic8,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/12153/index.m3u8
+PlayBoy1,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/12135/index.m3u8
+PlayBoy1,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/527/index.m3u8
+PlayBoy2,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6280/index.m3u8
+欧美-01,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6252/index.m3u8
+欧美-02,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/12136/index.m3u8
+欧美-03,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/12158/index.m3u8
+欧美-04,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6276/index.m3u8
+欧美-05,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6275/index.m3u8
+欧美-05,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6282/index.m3u8
+欧美-06,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6285/index.m3u8
+欧美-07,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6284/index.m3u8
+欧美-08,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6297/index.m3u8
+欧美-09,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6298/index.m3u8
+欧美-10,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/12189/index.m3u8
+欧美-11,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/12194/index.m3u8
+欧美-12,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/12112/index.m3u8
+欧美-13,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/12113/index.m3u8
+欧美-14,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/12111/index.m3u8
+欧美-15,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/12120/index.m3u8
+欧美-16,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/12121/index.m3u8
+欧美-17,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/12123/index.m3u8
+欧美-18,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/12122/index.m3u8
+欧美-19,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/12125/index.m3u8
+欧美-20,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/12124/index.m3u8
+欧美-21,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/12130/index.m3u8
+欧美-22,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/12129/index.m3u8
+欧美-23,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/874/index.m3u8
+欧美-24,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/876/index.m3u8
+欧美-25,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/12133/index.m3u8
+Brazzers TV Europe,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/910/index.m3u8
+Шалун,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/922/index.m3u8
+Candy,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/923/index.m3u8
+Hustler HD orig,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/9065/index.m3u8
+Penthouse Passion HD,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/1073/index.m3u8
+Нюарт TV,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/2057/index.m3u8
+Sexto Senso,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/875/index.m3u8
+FrenchLover,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/2160/index.m3u8
+O-la-la,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/2161/index.m3u8
+Extasy 4K,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/5014/index.m3u8
+Private TV,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/243/index.m3u8
+Русская ночь orig,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/9344/index.m3u8
+Hard X,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6218/index.m3u8
+Hot Guys Fuck,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6223/index.m3u8
+Bangerz,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6271/index.m3u8
+Emanuelle HD,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6272/index.m3u8
+Extreme,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6273/index.m3u8
+Fast Boyz,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6274/index.m3u8
+Hot Pleasure,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6277/index.m3u8
+Lesbian Affair,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6278/index.m3u8
+Oldtimer,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6279/index.m3u8
+Taboo,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6283/index.m3u8
+XY Plus HD,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/6288/index.m3u8
+Dorcel HD orig,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/9064/index.m3u8
+Redlight HD orig,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/9066/index.m3u8
+Passion XXX orig,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/9067/index.m3u8
+O-La-La orig,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/9068/index.m3u8
+XXL orig,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/9345/index.m3u8
+EXXXOTICA HD orig,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/9346/index.m3u8
+EXTASY HD,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/11051/index.m3u8
+KinoXXX,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/11052/index.m3u8
+ОХ-АХ HD,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/11068/index.m3u8
+VF Cartoon 18+,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/11117/index.m3u8
+FREE X TV,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/12134/index.m3u8
+VERAPORN TEENS,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/12139/index.m3u8
+VERAPORN TEENS 2,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/12140/index.m3u8
+VERAPORN ANAL,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/12143/index.m3u8
+VERAPORN FEET,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/12144/index.m3u8
+VERAPORN BIG TITS,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/12145/index.m3u8
+PINK EROTICA 5,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/12150/index.m3u8
+XXX Love\'s Berry HD,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/14140/index.m3u8
+YOSSO TV SEXY,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/14176/index.m3u8
+SKY HIGH ADULT HD,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/15166/index.m3u8
+Kaloopy hd tv,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/16018/index.m3u8
+LIBERTY EROTIKA HD,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/16069/index.m3u8
+Кино 18+ HD,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/18075/index.m3u8
+Кино 18+ International,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/18076/index.m3u8
+Kinoshka Adult HD,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/18060/index.m3u8
+Eromania 4K,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/10049/index.m3u8
+DuckTV HD,http://zyamka.akadatel.com/iptv/XX4SGCHWELMC2R/18138/index.m3u8
+
 
 EA2channel_0529,#genre#
 ADULTO 1,http://tv.urllista.com/live/Camilapm/f1sxwej8f9h/52276.m3u8
