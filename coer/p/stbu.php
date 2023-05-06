@@ -6,9 +6,9 @@ LOOK TV,mitv://generationnexxxt.com:19806/51905d735613441a8d1b1ba48e3d675f
 惊艳成人电影台,mitv://generationnexxxt.com:19806/ee2b6fde117b490d97f08b8cccb53b2b
 松视1台,mitv://generationnexxxt.com:19806/72e49275ae31449bb02e5e5267f5b11d
 松视2台,mitv://generationnexxxt.com:19806/7cdd5c5cb4504303a20c29777ab92ddb
-松视3台,mitv://generationnexxxt.com:19806/3e67c20620cd40c6afe6674920ff4cb0
 PLAYBOY,mitv://generationnexxxt.com:19806/ff05e3399b5f475aa01eaa69701bdf12
 香蕉台,mitv://generationnexxxt.com:19806/57247aea7c954ff590c5b3c2cc401071
+松视3台,mitv://generationnexxxt.com:19806/3e67c20620cd40c6afe6674920ff4cb0
 JStar极限台,mitv://generationnexxxt.com:19806/a2f3132a2bac4397bdf6b78321c5ed90
 HAPPY,mitv://generationnexxxt.com:19806/f74e07e463c74ffa900f40b8340cf39e
 K,mitv://generationnexxxt.com:19806/6beb5e1933904be6b31ccf69139d8bb8
@@ -19,12 +19,13 @@ LOOK TV,mitv://generationnexxxt.com:19806/51905d735613441a8d1b1ba48e3d675f
 惊艳成人电影台,mitv://generationnexxxt.com:19806/ee2b6fde117b490d97f08b8cccb53b2b
 松视1台,mitv://generationnexxxt.com:19806/72e49275ae31449bb02e5e5267f5b11d
 松视2台,mitv://generationnexxxt.com:19806/7cdd5c5cb4504303a20c29777ab92ddb
-松视3台,mitv://generationnexxxt.com:19806/3e67c20620cd40c6afe6674920ff4cb0
 PLAYBOY,mitv://generationnexxxt.com:19806/ff05e3399b5f475aa01eaa69701bdf12
 香蕉台,mitv://generationnexxxt.com:19806/57247aea7c954ff590c5b3c2cc401071
+松视3台,mitv://generationnexxxt.com:19806/3e67c20620cd40c6afe6674920ff4cb0
 JStar极限台,mitv://generationnexxxt.com:19806/a2f3132a2bac4397bdf6b78321c5ed90
 HAPPY,mitv://generationnexxxt.com:19806/f74e07e463c74ffa900f40b8340cf39e
 K,mitv://generationnexxxt.com:19806/6beb5e1933904be6b31ccf69139d8bb8
+
 彩虹电影,p5p://crfccs.kingh888.com:16666/60ab2705000438470e6022cd64274913  
 松视1,p5p://crfccs.kingh888.com:16666/60ab2744000d91cc0e611b49573518f1  
 松视2,p5p://crfccs.kingh888.com:16666/60ab2759000359320e616ab455299cce  
