@@ -221,6 +221,277 @@ HOTH,p5p://crfccs.kingh888.com:16666/60ab27ac000dd0ce0e62b1998dc28571
 
 EA1channel_0529,#genre#
 --高清频道,--
+Cum 4K,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6190/index.m3u8
+TINY 4K,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6258/index.m3u8
+VERAPORN 4K,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/12137/index.m3u8
+VERAPORN 4K 2,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/12138/index.m3u8
+Double Rabbit,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6260/index.m3u8
+mydirtyhobby,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/12183/index.m3u8
+ExxxOtica,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/2397/index.m3u8
+HotWifexxx,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/12187/index.m3u8
+Tushy1,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6261/index.m3u8
+Tushy2,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/12188/index.m3u8
+TushyRaw,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6262/index.m3u8
+Blacked1,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6178/index.m3u8
+Blacked2,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/12190/index.m3u8
+BlackedRaw,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/12191/index.m3u8
+Transerotica,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/12193/index.m3u8
+Planet-randy,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/12204/index.m3u8
+Redlight,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/242/index.m3u8
+Hustler,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/244/index.m3u8
+Dorcel,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/245/index.m3u8
+Dorcel,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/878/index.m3u8
+Dorcelclub,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6197/index.m3u8
+Penthouse Gold,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/5011/index.m3u8
+Penthouse Quickies,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/5013/index.m3u8
+Penthouse Quickies,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/5012/index.m3u8
+Penthouse Passion,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/5010/index.m3u8
+xxl,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/5009/index.m3u8
+Erox,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/5015/index.m3u8
+AdulTtime,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6166/index.m3u8
+Sexart1,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6165/index.m3u8
+Sexart2,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6253/index.m3u8
+21Sextury,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6164/index.m3u8
+Analized,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6168/index.m3u8
+Pinko Tgirls,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6170/index.m3u8
+BabesTV-1,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6171/index.m3u8
+BabesTV-2,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6172/index.m3u8
+BlacksOnBoys,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6169/index.m3u8
+Bang Bros,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6173/index.m3u8
+Bang Bros,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6235/index.m3u8
+Bang!Rammed,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6174/index.m3u8
+Brazzers-1,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6181/index.m3u8
+Brazzers-2,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6182/index.m3u8
+Brazzers-3,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6192/index.m3u8
+Brazzers-4,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6204/index.m3u8
+Brazzers-5,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6203/index.m3u8
+Brazzers-6,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6222/index.m3u8
+Cherry Pimps,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6185/index.m3u8
+ClubSweeThearts,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6186/index.m3u8
+XXxxx,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6200/index.m3u8
+XXXxxx,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6184/index.m3u8
+CumLouder,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6189/index.m3u8
+Daughterswap,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6191/index.m3u8
+DigiTaldesire,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6195/index.m3u8
+DDF Network-1,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6193/index.m3u8
+DDF Network-2,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6194/index.m3u8
+DDF Network-3,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6217/index.m3u8
+DP Digital Playground-1,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6196/index.m3u8
+DP Digital Playground-2,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6210/index.m3u8
+Evilangel,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6199/index.m3u8
+Extasy,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6201/index.m3u8
+Faketaxi,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6202/index.m3u8
+Trueanal,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6206/index.m3u8
+GloryHoleSecrets,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6205/index.m3u8
+nympho,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6208/index.m3u8
+Mylf,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6216/index.m3u8
+Family,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6209/index.m3u8
+Hitzefrei!,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6220/index.m3u8
+Holed,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6221/index.m3u8
+JapanHdv,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6225/index.m3u8
+Littleasians,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6230/index.m3u8
+Hot Guys Fuck,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6229/index.m3u8
+lesbea,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6227/index.m3u8
+Redxxx,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6232/index.m3u8
+Redxxx,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6281/index.m3u8
+Metart,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6233/index.m3u8
+MylfXJoybear,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6236/index.m3u8
+Alsscan,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6239/index.m3u8
+Nubiles,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6238/index.m3u8
+Naughty America,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6237/index.m3u8
+PlayBoy,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6242/index.m3u8
+Private,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6245/index.m3u8
+Public Agent,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6246/index.m3u8
+Sin Ematica,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6255/index.m3u8
+atrans angel,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6259/index.m3u8
+Vixen,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6265/index.m3u8
+VividTV,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6264/index.m3u8
+Visit-X,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6263/index.m3u8
+Wicked,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6268/index.m3u8
+WhitEboxxx,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6267/index.m3u8
+Balkan Erotic,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6270/index.m3u8
+Erox,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6296/index.m3u8
+XvMax,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6286/index.m3u8
+XvMix,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6287/index.m3u8
+DorcelTv,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/12131/index.m3u8
+Dorcelxxx,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/12132/index.m3u8
+VeraPorn1,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/12141/index.m3u8
+VeraPorn2,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/12142/index.m3u8
+Alba xxx-1,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/12105/index.m3u8
+Alba xxx-2,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/12107/index.m3u8
+Alba xxx-3,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/12109/index.m3u8
+Alba xxx-4,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/12106/index.m3u8
+Alba xxx-4,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/12110/index.m3u8
+Alba xxx-5,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/12108/index.m3u8
+Realitykings-1,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6247/index.m3u8
+Realitykings-2,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6248/index.m3u8
+Realitykings-3,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6249/index.m3u8
+Realitykings-4,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6266/index.m3u8
+SL-HOT 1,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/12161/index.m3u8
+SL-HOT 2,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/12162/index.m3u8
+SL-HOT 3,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/12163/index.m3u8
+SL-HOT 4,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/12164/index.m3u8
+SL-HOT 5,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/12165/index.m3u8
+SL-HOT 6,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/12166/index.m3u8
+SL-HOT 7,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/12167/index.m3u8
+SL-HOT 8,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/12168/index.m3u8
+SL-HOT 9,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/12169/index.m3u8
+SL-Erotic,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/12160/index.m3u8
+AdultIPTV-01,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6167/index.m3u8
+AdultIPTV-02,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6175/index.m3u8
+AdultIPTV-03,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6180/index.m3u8
+AdultIPTV-04,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6177/index.m3u8
+AdultIPTV-05,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6176/index.m3u8
+AdultIPTV-06,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6179/index.m3u8
+AdultIPTV-07,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6183/index.m3u8
+AdultIPTV-08,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6187/index.m3u8
+AdultIPTV-09,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6188/index.m3u8
+AdultIPTV-10,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6214/index.m3u8
+AdultIPTV-11,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6215/index.m3u8
+AdultIPTV-12,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6213/index.m3u8
+AdultIPTV-13,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6219/index.m3u8
+AdultIPTV-14,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6224/index.m3u8
+AdultIPTV-15,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6226/index.m3u8
+AdultIPTV-16,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6243/index.m3u8
+AdultIPTV-17,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6228/index.m3u8
+AdultIPTV-18,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6231/index.m3u8
+AdultIPTV-19,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6234/index.m3u8
+AdultIPTV-20,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6244/index.m3u8
+AdultIPTV-21,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6250/index.m3u8
+AdultIPTV-22,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6256/index.m3u8
+AdultIPTV-23,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6257/index.m3u8
+AdultIPTV-24,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6251/index.m3u8
+AdultIPTV-25,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/12171/index.m3u8
+AdultIPTV-26,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/12172/index.m3u8
+AdultIPTV-27,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/12174/index.m3u8
+AdultIPTV-28,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/12173/index.m3u8
+AdultIPTV-29,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/12175/index.m3u8
+AdultIPTV-30,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/12176/index.m3u8
+AdultIPTV-31,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/12184/index.m3u8
+AdultIPTV-32,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/12178/index.m3u8
+AdultIPTV-33,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/12177/index.m3u8
+AdultIPTV-34,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/12180/index.m3u8
+AdultIPTV-35,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/12192/index.m3u8
+欧美hd-01,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6207/index.m3u8
+欧美hd-02,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6254/index.m3u8
+欧美hd-03,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6269/index.m3u8
+欧美hd-04,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/12154/index.m3u8
+欧美hd-05,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/12155/index.m3u8
+欧美hd-06,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/12156/index.m3u8
+欧美hd-07,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/12157/index.m3u8
+欧美hd-08,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/12181/index.m3u8
+欧美hd-09,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/12205/index.m3u8
+--标清频道,--
+Lesbian,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/147/index.m3u8
+defloration,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6211/index.m3u8
+Blue Hustler,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/1064/index.m3u8
+Dusk,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6198/index.m3u8
+BarelyLegal,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/871/index.m3u8
+XYplus-1,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/12116/index.m3u8
+XYplus-2,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/12117/index.m3u8
+XYplus-3,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/12118/index.m3u8
+XYplus-4,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/12119/index.m3u8
+U Bang-1,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/12114/index.m3u8
+U Bang-2,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/12128/index.m3u8
+U Bang-3,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/12170/index.m3u8
+U Bang-4,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/12152/index.m3u8
+Erotic,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6289/index.m3u8
+Erotic,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/12146/index.m3u8
+Erotic2,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6290/index.m3u8
+Erotic2,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/12147/index.m3u8
+Erotic3,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6291/index.m3u8
+Erotic4,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6292/index.m3u8
+Erotic5,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/12148/index.m3u8
+Erotic5,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6240/index.m3u8
+Erotic6,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6241/index.m3u8
+Erotic6,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6293/index.m3u8
+Erotic6,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/12149/index.m3u8
+Erotic6,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/12151/index.m3u8
+Erotic7,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6294/index.m3u8
+Erotic8,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6295/index.m3u8
+Erotic8,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/12153/index.m3u8
+PlayBoy1,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/12135/index.m3u8
+PlayBoy1,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/527/index.m3u8
+PlayBoy2,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6280/index.m3u8
+欧美-01,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6252/index.m3u8
+欧美-02,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/12136/index.m3u8
+欧美-03,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/12158/index.m3u8
+欧美-04,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6276/index.m3u8
+欧美-05,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6275/index.m3u8
+欧美-05,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6282/index.m3u8
+欧美-06,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6285/index.m3u8
+欧美-07,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6284/index.m3u8
+欧美-08,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6297/index.m3u8
+欧美-09,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6298/index.m3u8
+欧美-10,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/12189/index.m3u8
+欧美-11,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/12194/index.m3u8
+欧美-12,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/12112/index.m3u8
+欧美-13,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/12113/index.m3u8
+欧美-14,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/12111/index.m3u8
+欧美-15,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/12120/index.m3u8
+欧美-16,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/12121/index.m3u8
+欧美-17,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/12123/index.m3u8
+欧美-18,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/12122/index.m3u8
+欧美-19,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/12125/index.m3u8
+欧美-20,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/12124/index.m3u8
+欧美-21,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/12130/index.m3u8
+欧美-22,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/12129/index.m3u8
+欧美-23,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/874/index.m3u8
+欧美-24,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/876/index.m3u8
+欧美-25,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/12133/index.m3u8
+Brazzers TV Europe,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/910/index.m3u8
+Шалун,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/922/index.m3u8
+Candy,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/923/index.m3u8
+Hustler HD orig,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/9065/index.m3u8
+Penthouse Passion HD,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/1073/index.m3u8
+Нюарт TV,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/2057/index.m3u8
+Sexto Senso,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/875/index.m3u8
+FrenchLover,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/2160/index.m3u8
+O-la-la,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/2161/index.m3u8
+Extasy 4K,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/5014/index.m3u8
+Private TV,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/243/index.m3u8
+Русская ночь orig,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/9344/index.m3u8
+Hard X,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6218/index.m3u8
+Hot Guys Fuck,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6223/index.m3u8
+Bangerz,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6271/index.m3u8
+Emanuelle HD,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6272/index.m3u8
+Extreme,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6273/index.m3u8
+Fast Boyz,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6274/index.m3u8
+Hot Pleasure,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6277/index.m3u8
+Lesbian Affair,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6278/index.m3u8
+Oldtimer,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6279/index.m3u8
+Taboo,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6283/index.m3u8
+XY Plus HD,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/6288/index.m3u8
+Dorcel HD orig,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/9064/index.m3u8
+Redlight HD orig,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/9066/index.m3u8
+Passion XXX orig,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/9067/index.m3u8
+O-La-La orig,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/9068/index.m3u8
+XXL orig,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/9345/index.m3u8
+EXXXOTICA HD orig,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/9346/index.m3u8
+EXTASY HD,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/11051/index.m3u8
+KinoXXX,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/11052/index.m3u8
+ОХ-АХ HD,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/11068/index.m3u8
+VF Cartoon 18+,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/11117/index.m3u8
+FREE X TV,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/12134/index.m3u8
+VERAPORN TEENS,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/12139/index.m3u8
+VERAPORN TEENS 2,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/12140/index.m3u8
+VERAPORN ANAL,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/12143/index.m3u8
+VERAPORN FEET,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/12144/index.m3u8
+VERAPORN BIG TITS,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/12145/index.m3u8
+PINK EROTICA 5,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/12150/index.m3u8
+XXX Love\'s Berry HD,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/14140/index.m3u8
+YOSSO TV SEXY,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/14176/index.m3u8
+SKY HIGH ADULT HD,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/15166/index.m3u8
+Kaloopy hd tv,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/16018/index.m3u8
+LIBERTY EROTIKA HD,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/16069/index.m3u8
+Кино 18+ HD,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/18075/index.m3u8
+Кино 18+ International,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/18076/index.m3u8
+Kinoshka Adult HD,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/18060/index.m3u8
+Eromania 4K,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/10049/index.m3u8
+DuckTV HD,http://345f89f7.ottrast.com/iptv/N452PD2NQGMCCD/18138/index.m3u8
+
+
+--高清频道,--
 Cum 4K,http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6190/index.m3u8
 TINY 4K,http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6258/index.m3u8
 VERAPORN 4K,http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/12137/index.m3u8
